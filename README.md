@@ -1,5 +1,4 @@
 # apsis-vn
- short visual novel set on a colony ship, using the RenPy engine.
+short visual novel made for NaNoRen0 set on a colony ship, using the RenPy engine.
 
-
- github repository contains game code as well as documents related to planning/writing
+apsis folder contains game code - all other files & folders are related to planning the game.
