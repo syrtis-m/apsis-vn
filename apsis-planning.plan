@@ -1,19 +1,19 @@
 {
   "version": "0.8.0-alpha.4.1",
   "pan": {
-    "X": 766.48236,
-    "Y": 1792.6461
+    "X": 1293.0773,
+    "Y": 986.4702
   },
-  "zoom": 0.560305655002594,
+  "zoom": 0.25,
   "pages": [
     {
       "name": "New Page",
       "id": 0,
       "pan": {
-        "X": 766.4825,
-        "Y": 1792.6464
+        "X": 1293.077,
+        "Y": 986.47034
       },
-      "zoom": 0.560305655002594,
+      "zoom": 0.25,
       "cards": [
         {
           "id": 0,
@@ -25,7 +25,8 @@
           },
           "contents": "Note",
           "properties": {
-            "description": "BGs\nI like the messiness of pixelated \u0026 smoothed bgs.\nInside the ship should feel messy, outside should also be pixelated but be beautiful. Inside cramped, outside terrifyingly huge."
+            "description": "BGs\nI like the messiness of pixelated \u0026 smoothed bgs.\nInside the ship should feel messy, outside should also be pixelated but be beautiful. Inside cramped, outside terrifyingly huge.",
+            "filepath": ""
           }
         },
         {
@@ -90,7 +91,8 @@
           },
           "contents": "Note",
           "properties": {
-            "description": "Art Ideas"
+            "description": "Art Ideas",
+            "filepath": ""
           }
         },
         {
@@ -116,7 +118,8 @@
           },
           "contents": "Note",
           "properties": {
-            "description": "State of the Ship\nWhat does a ship with 200yrs of travel look like? What does a tomb feel like?"
+            "description": "State of the Ship\nWhat does a ship with 200yrs of travel look like? What does a tomb feel like?",
+            "filepath": ""
           }
         },
         {
@@ -129,7 +132,8 @@
           },
           "contents": "Note",
           "properties": {
-            "description": "itch.io assets\nhttps://tofurocks.itch.io/renpy-gui-template\n\nthe ludum dare stuff from athenaeum\n\nhttps://kronbits.itch.io/backgrounds\nhttps://deep-fold.itch.io/space-background-generator\nhttps://ronenness.itch.io/pixelator\n\nhttps://ludowoods.itch.io/twine-to-renpy-tool\n\nhttps://gogodinosaur.itch.io/webbed\n\nhttps://kenney.itch.io/assetforge-deluxe"
+            "description": "itch.io assets\nhttps://tofurocks.itch.io/renpy-gui-template\n\nthe ludum dare stuff from athenaeum\n\nhttps://kronbits.itch.io/backgrounds\nhttps://deep-fold.itch.io/space-background-generator\nhttps://ronenness.itch.io/pixelator\n\nhttps://ludowoods.itch.io/twine-to-renpy-tool\n\nhttps://gogodinosaur.itch.io/webbed\n\nhttps://kenney.itch.io/assetforge-deluxe",
+            "filepath": ""
           }
         },
         {
@@ -142,7 +146,8 @@
           },
           "contents": "Note",
           "properties": {
-            "description": "BG Ideas\nBGs should communicate themes.\n\nShowing the ship as an abandoned space, a crypt."
+            "description": "BG Ideas\nBGs should communicate themes.\n\nShowing the ship as an abandoned space, a crypt.",
+            "filepath": ""
           },
           "links": [
             {
@@ -167,7 +172,8 @@
           },
           "contents": "Note",
           "properties": {
-            "description": "Computer turn on\nLittle animation of a blue square flickering and turning on maybe?"
+            "description": "Computer turn on\nLittle animation of a blue square flickering and turning on maybe?",
+            "filepath": ""
           }
         },
         {
@@ -180,7 +186,8 @@
           },
           "contents": "Note",
           "properties": {
-            "description": "Might need to redo these, bc i had the \"resize image to pixels\" option selected"
+            "description": "Might need to redo these, bc i had the \"resize image to pixels\" option selected",
+            "filepath": ""
           }
         },
         {
@@ -193,7 +200,8 @@
           },
           "contents": "Note",
           "properties": {
-            "description": "pixelator\nuse pixelator to generate pixel art bgs\n\nthis + CC0 pictures of space or land or w/e is an excellent pairing"
+            "description": "pixelator\nuse pixelator to generate pixel art bgs\n\nthis + CC0 pictures of space or land or w/e is an excellent pairing",
+            "filepath": ""
           },
           "links": [
             {
@@ -218,7 +226,8 @@
           },
           "contents": "Note",
           "properties": {
-            "description": "prompt: spaceship hallway"
+            "description": "prompt: spaceship hallway",
+            "filepath": ""
           }
         },
         {
@@ -297,7 +306,8 @@
           },
           "contents": "Note",
           "properties": {
-            "description": "Text2Art colab notebook\nhttps://colab.research.google.com/github/mfrashad/text2art/blob/main/text2art.ipynb\nuse this to create art which we then put through pixelator\nreset until you get a good GPU"
+            "description": "Text2Art colab notebook\nhttps://colab.research.google.com/github/mfrashad/text2art/blob/main/text2art.ipynb\nuse this to create art which we then put through pixelator\nreset until you get a good GPU",
+            "filepath": ""
           },
           "links": [
             {
@@ -322,7 +332,8 @@
           },
           "contents": "Note",
           "properties": {
-            "description": "BG samples\nthe @CrookedCosmos twitter acct has lots of glitch art of space, all under a CC0 license. start saving examples."
+            "description": "BG samples\nthe @CrookedCosmos twitter acct has lots of glitch art of space, all under a CC0 license. start saving examples.",
+            "filepath": ""
           }
         },
         {
@@ -335,7 +346,8 @@
           },
           "contents": "Note",
           "properties": {
-            "description": "external ship view?\ndo we show the ship from the exterior? maybe an internal map?"
+            "description": "external ship view?\ndo we show the ship from the exterior? maybe an internal map?",
+            "filepath": ""
           }
         },
         {
@@ -348,7 +360,8 @@
           },
           "contents": "Note",
           "properties": {
-            "description": "prompt ideas\nflooded coordior\nflooded hallway\nscifi flooded hallway\nscifi exercise room\nscifi lounge room\ncryosleep pods\ndesert (for sequence abt why they left the planet)\nearth orbit\nexoplanet\nalien world\nalien planet"
+            "description": "prompt ideas\nflooded coordior\nflooded hallway\nscifi flooded hallway\nscifi exercise room\nscifi lounge room\ncryosleep pods\ndesert (for sequence abt why they left the planet)\nearth orbit\nexoplanet\nalien world\nalien planet",
+            "filepath": ""
           }
         },
         {
@@ -361,7 +374,8 @@
           },
           "contents": "Note",
           "properties": {
-            "description": "Neural Net + pixelator\nusing GAN artwork + pixelator might be able to create interesting stuff."
+            "description": "Neural Net + pixelator\nusing GAN artwork + pixelator might be able to create interesting stuff.",
+            "filepath": ""
           },
           "links": [
             {
@@ -382,7 +396,8 @@
           "contents": "Sub-Page",
           "properties": {
             "description": "Narrative Flow",
-            "subpage": 1
+            "subpage": 1,
+            "filepath": ""
           }
         },
         {
@@ -395,7 +410,8 @@
           },
           "contents": "Note",
           "properties": {
-            "description": "Character Art\nDavid is making character art for AIs and VIs."
+            "description": "Character Art\nDavid is making character art for AIs and VIs.",
+            "filepath": ""
           }
         },
         {
@@ -408,7 +424,8 @@
           },
           "contents": "Note",
           "properties": {
-            "description": "Game Name\nApsis\nhttps://en.wikipedia.org/wiki/Apsis"
+            "description": "Game Name\nApsis\nhttps://en.wikipedia.org/wiki/Apsis",
+            "filepath": ""
           }
         },
         {
@@ -421,7 +438,8 @@
           },
           "contents": "Note",
           "properties": {
-            "description": "Drifting Ship\nMaybe you could decide to keep the ship adrift or move forwards to the possibility of a new planet even if it wasn't the one you originally wanted to go to."
+            "description": "Drifting Ship\nMaybe you could decide to keep the ship adrift or move forwards to the possibility of a new planet even if it wasn't the one you originally wanted to go to.",
+            "filepath": ""
           },
           "links": [
             {
@@ -443,7 +461,8 @@
           "properties": {
             "description": "Preproduction Phase",
             "current": 9,
-            "maximum": 9
+            "maximum": 9,
+            "filepath": ""
           }
         },
         {
@@ -456,7 +475,8 @@
           },
           "contents": "Note",
           "properties": {
-            "description": "Process"
+            "description": "Process",
+            "filepath": ""
           }
         },
         {
@@ -469,7 +489,8 @@
           },
           "contents": "Note",
           "properties": {
-            "description": "Concept\nYou are an android aboard a spaceship destined for a colony world.\n\nThe colonists died in cryosleep. The ship is adrift.\nWhat do you do now?\n\nFor NaNoRenO 2022 [https://itch.io/jam/nanoreno-2022]"
+            "description": "Concept\nYou are an android aboard a spaceship destined for a colony world.\n\nThe colonists died in cryosleep. The ship is adrift.\nWhat do you do now?\n\nFor NaNoRenO 2022 [https://itch.io/jam/nanoreno-2022]",
+            "filepath": ""
           },
           "links": [
             {
@@ -489,7 +510,8 @@
           },
           "contents": "Note",
           "properties": {
-            "description": "Narrative Ideas"
+            "description": "Narrative Ideas",
+            "filepath": ""
           }
         },
         {
@@ -502,7 +524,8 @@
           },
           "contents": "Note",
           "properties": {
-            "description": "Player Choice Ideas"
+            "description": "Player Choice Ideas",
+            "filepath": ""
           }
         },
         {
@@ -530,7 +553,8 @@
           },
           "contents": "Note",
           "properties": {
-            "description": "Jump idea\nmaybe the navcomputer storing the destination is lost, so the ship is now adrift, and you can choose to \"jump\" to different locations in space. this would be heavy on space-related BGs, and allow me to do less ship-interior BGs"
+            "description": "Jump idea\nmaybe the navcomputer storing the destination is lost, so the ship is now adrift, and you can choose to \"jump\" to different locations in space. this would be heavy on space-related BGs, and allow me to do less ship-interior BGs",
+            "filepath": ""
           }
         },
         {
@@ -543,7 +567,8 @@
           },
           "contents": "Note",
           "properties": {
-            "description": "ending\nending needs to support the themes of finding motivation/purpose, overcoming loneliness"
+            "description": "ending\nending needs to support the themes of finding motivation/purpose, overcoming loneliness",
+            "filepath": ""
           },
           "links": [
             {
@@ -575,7 +600,8 @@
           "properties": {
             "description": "Production Phase\n3/1-3/18",
             "current": 3,
-            "maximum": 18
+            "maximum": 18,
+            "filepath": ""
           }
         },
         {
@@ -603,7 +629,8 @@
           },
           "contents": "Note",
           "properties": {
-            "description": "Shutdown or Move Forwards\nCombo - shutdown in the ship adrift, or find a new planet, or bring the ship back to earth to try to report on the shoddy construction"
+            "description": "Shutdown or Move Forwards\nCombo - shutdown in the ship adrift, or find a new planet, or bring the ship back to earth to try to report on the shoddy construction",
+            "filepath": ""
           }
         },
         {
@@ -633,7 +660,8 @@
           "properties": {
             "description": "Alpha Phase\n3/19-3/26",
             "current": 0,
-            "maximum": 8
+            "maximum": 8,
+            "filepath": ""
           }
         },
         {
@@ -661,7 +689,8 @@
           },
           "contents": "Note",
           "properties": {
-            "description": "keycodes\ngating parts of the game with keycodes would be interesting. if the player is a service android, they wouldn't have admin access"
+            "description": "keycodes\ngating parts of the game with keycodes would be interesting. if the player is a service android, they wouldn't have admin access",
+            "filepath": ""
           },
           "links": [
             {
@@ -696,7 +725,8 @@
           },
           "contents": "Note",
           "properties": {
-            "description": "Sleep/Stay Awake\nDecide to shutdown and wait for rescule or stay awake."
+            "description": "Sleep/Stay Awake\nDecide to shutdown and wait for rescule or stay awake.",
+            "filepath": ""
           },
           "links": [
             {
@@ -718,7 +748,8 @@
           "properties": {
             "description": "Beta Phase\n3/26-3/28",
             "current": 0,
-            "maximum": 2
+            "maximum": 2,
+            "filepath": ""
           }
         },
         {
@@ -746,7 +777,8 @@
           },
           "contents": "Note",
           "properties": {
-            "description": "masterplan outline\nuse masterplan to outline the narrative beats in the game"
+            "description": "masterplan outline\nuse masterplan to outline the narrative beats in the game",
+            "filepath": ""
           }
         },
         {
@@ -774,7 +806,8 @@
           },
           "contents": "Note",
           "properties": {
-            "description": "Inspiration\nAlien\nAI art"
+            "description": "Inspiration\nAlien\nAI art",
+            "filepath": ""
           }
         },
         {
@@ -787,7 +820,8 @@
           },
           "contents": "Note",
           "properties": {
-            "description": "Themes\nFinding motivation\nFinding purpose\nLoneliness\n"
+            "description": "Themes\nFinding motivation\nFinding purpose\nLoneliness\n",
+            "filepath": ""
           }
         },
         {
@@ -815,7 +849,8 @@
           },
           "contents": "Note",
           "properties": {
-            "description": "exploring parts of the ship\nmaybe you can choose to explore different parts in different orders."
+            "description": "exploring parts of the ship\nmaybe you can choose to explore different parts in different orders.",
+            "filepath": ""
           }
         },
         {
@@ -828,7 +863,8 @@
           },
           "contents": "Note",
           "properties": {
-            "description": "gated endings?\nmultiple endings, gated by keycodes you get from different areas of the ship"
+            "description": "gated endings?\nmultiple endings, gated by keycodes you get from different areas of the ship",
+            "filepath": ""
           }
         },
         {
@@ -856,7 +892,8 @@
           },
           "contents": "Note",
           "properties": {
-            "description": "The Player + Call To Action\nThe player is a model of android designed to support the unloading of the ship, and will only be turned on when they arrive at the destination. They get turned on, and they aren't at the destination. They then have to figure out what happened.\n\nMaybe computer logs?"
+            "description": "The Player + Call To Action\nThe player is a model of android designed to support the unloading of the ship, and will only be turned on when they arrive at the destination. They get turned on, and they aren't at the destination. They then have to figure out what happened.\n\nMaybe computer logs?",
+            "filepath": ""
           }
         },
         {
@@ -869,7 +906,8 @@
           },
           "contents": "Note",
           "properties": {
-            "description": "Scope\n- 15-20 mins\n- Set entirely within spaceship"
+            "description": "Scope\n- 15-20 mins\n- Set entirely within spaceship",
+            "filepath": ""
           }
         },
         {
@@ -882,7 +920,8 @@
           },
           "contents": "Note",
           "properties": {
-            "description": "Game Engine\n- RenPy\n- Masterplan (Prototype)"
+            "description": "Game Engine\n- RenPy\n- Masterplan (Prototype)",
+            "filepath": ""
           },
           "links": [
             {
@@ -912,7 +951,8 @@
           },
           "contents": "Note",
           "properties": {
-            "description": "resurrect the AI Caretaker\nit'd be interesting if you could restore the AI caretaker from an earlier backup. like, what does it mean to have killed yourself and then brought back to life. do you respect that choice, or bring them back for the hope of something \"better\"?"
+            "description": "resurrect the AI Caretaker\nit'd be interesting if you could restore the AI caretaker from an earlier backup. like, what does it mean to have killed yourself and then brought back to life. do you respect that choice, or bring them back for the hope of something \"better\"?",
+            "filepath": ""
           },
           "links": [
             {
@@ -967,7 +1007,8 @@
           },
           "contents": "Note",
           "properties": {
-            "description": "Let the AI Caretaker shut themselves down again\nAfter you wake up the AI Caretaker, maybe they find out that they had shut themselves off. Do you let them shut themselves off again, or do you try to argue them out of it."
+            "description": "Let the AI Caretaker shut themselves down again\nAfter you wake up the AI Caretaker, maybe they find out that they had shut themselves off. Do you let them shut themselves off again, or do you try to argue them out of it.",
+            "filepath": ""
           }
         },
         {
@@ -980,7 +1021,7 @@
           },
           "contents": "Checkbox",
           "properties": {
-            "checked": false,
+            "checked": true,
             "description": "Plot Beats",
             "filepath": ""
           }
@@ -1070,7 +1111,8 @@
           },
           "contents": "Note",
           "properties": {
-            "description": "Conversational options\nChoose different options when investigating a computer terminal or talking to a VI.\ndialogue inspired by 'that which faith demands' - lots of options in dialogue that let the player RP a bit"
+            "description": "Conversational options\nChoose different options when investigating a computer terminal or talking to a VI.\ndialogue inspired by 'that which faith demands' - lots of options in dialogue that let the player RP a bit",
+            "filepath": ""
           }
         },
         {
@@ -1098,7 +1140,8 @@
           },
           "contents": "Note",
           "properties": {
-            "description": "What Happened\nthe life support was shoddily constructed - no need to build something well if you never have to sell them something again\n\nsearching for why the humans died -\u003e it was an accident. sometimes things just happen.\nI like the idea of there being a caretaker android who'se dead now. You are collecting their logs.\nMaybe one day, the caretaker \"woke up\" and everyone was dead.  They countinued for a while, and then decided to turn themselves off permanently. "
+            "description": "What Happened\nthe life support was shoddily constructed - no need to build something well if you never have to sell them something again\n\nsearching for why the humans died -\u003e it was an accident. sometimes things just happen.\nI like the idea of there being a caretaker android who'se dead now. You are collecting their logs.\nMaybe one day, the caretaker \"woke up\" and everyone was dead.  They countinued for a while, and then decided to turn themselves off permanently. ",
+            "filepath": ""
           }
         },
         {
@@ -1126,7 +1169,8 @@
           },
           "contents": "Note",
           "properties": {
-            "description": "PICO-8?\nWhat would this game look like in PICO-8?\n-top down\n-would require me to do art, music, code in Lua\n-less writing, more other work\n-probably means smaller scope\n-can't submit for NaNoRen0"
+            "description": "PICO-8?\nWhat would this game look like in PICO-8?\n-top down\n-would require me to do art, music, code in Lua\n-less writing, more other work\n-probably means smaller scope\n-can't submit for NaNoRen0",
+            "filepath": ""
           },
           "links": [
             {
@@ -1146,7 +1190,8 @@
           },
           "contents": "Note",
           "properties": {
-            "description": "RenPy\nI don't super like renpy. I want a more moody vibe, and renpy feels stale often. I like the vibes of quiet low-poly horror games.\n-No need to learn anything new.\n-Can submit for NaNoRen0\n-Less time required\n-Less art required"
+            "description": "RenPy\nI don't super like renpy. I want a more moody vibe, and renpy feels stale often. I like the vibes of quiet low-poly horror games.\n-No need to learn anything new.\n-Can submit for NaNoRen0\n-Less time required\n-Less art required",
+            "filepath": ""
           },
           "links": [
             {
@@ -1181,7 +1226,8 @@
           },
           "contents": "Note",
           "properties": {
-            "description": "Antiwork Android\nThe AI Caretaker probably used to like their job, but after a hundred years? And suddenly they find out there's no light at the end of the tunnel? Understandable that they'd fucking hate it."
+            "description": "Antiwork Android\nThe AI Caretaker probably used to like their job, but after a hundred years? And suddenly they find out there's no light at the end of the tunnel? Understandable that they'd fucking hate it.",
+            "filepath": ""
           }
         },
         {
@@ -1329,7 +1375,8 @@
           },
           "contents": "Note",
           "properties": {
-            "description": "Labor \u0026 AI/VIs\nIn an effort to save money, companies have replaced workers in white color labor with AI and VIs. Means lots of people are doing jobs it's cheaper to use humans for. Manual labor like picking berries. Creative stuff. Some beaucracy.\nAIs have free will so they can buy things."
+            "description": "Labor \u0026 AI/VIs\nIn an effort to save money, companies have replaced workers in white color labor with AI and VIs. Means lots of people are doing jobs it's cheaper to use humans for. Manual labor like picking berries. Creative stuff. Some beaucracy.\nAIs have free will so they can buy things.",
+            "filepath": ""
           }
         },
         {
@@ -1342,7 +1389,8 @@
           },
           "contents": "Note",
           "properties": {
-            "description": "Use RenPy\nFor a game during school, use RenPy. Learn PICO-8 or GoDot over the summer."
+            "description": "Use RenPy\nFor a game during school, use RenPy. Learn PICO-8 or GoDot over the summer.",
+            "filepath": ""
           },
           "links": [
             {
@@ -1362,7 +1410,8 @@
           },
           "contents": "Note",
           "properties": {
-            "description": "VIs\ni think the ship is populated by VIs. think Nier esque, not super sentient. maybe they're tied to specific rooms.\nmaybe one wakes you up because the caretaker hasn't been "
+            "description": "VIs\ni think the ship is populated by VIs. think Nier esque, not super sentient. maybe they're tied to specific rooms.\nmaybe one wakes you up because the caretaker hasn't been ",
+            "filepath": ""
           }
         },
         {
@@ -1375,7 +1424,8 @@
           },
           "contents": "Note",
           "properties": {
-            "description": "summer project resources\nhttps://github.com/JannisX11/blockbench"
+            "description": "summer project resources\nhttps://github.com/JannisX11/blockbench",
+            "filepath": ""
           }
         },
         {
@@ -1388,7 +1438,8 @@
           },
           "contents": "Note",
           "properties": {
-            "description": "Lore"
+            "description": "Lore",
+            "filepath": ""
           },
           "links": [
             {
@@ -1408,7 +1459,8 @@
           },
           "contents": "Note",
           "properties": {
-            "description": "AIs vs VIs\nAIs are full characters, multiple expressions etc, nd can adapt to unexpected situations\nVIs are only an icon and can't adapt to unexpected situations."
+            "description": "AIs vs VIs\nAIs are full characters, multiple expressions etc, nd can adapt to unexpected situations\nVIs are only an icon and can't adapt to unexpected situations.",
+            "filepath": ""
           },
           "links": [
             {
@@ -1424,7 +1476,7 @@
           ]
         },
         {
-          "id": 127,
+          "id": 90,
           "rect": {
             "X": 704,
             "Y": 1504,
@@ -1433,11 +1485,12 @@
           },
           "contents": "Note",
           "properties": {
-            "description": "roko's basilisk\nhttps://slate.com/technology/2014/07/rokos-basilisk-the-most-terrifying-thought-experiment-of-all-time.html"
+            "description": "roko's basilisk\nhttps://slate.com/technology/2014/07/rokos-basilisk-the-most-terrifying-thought-experiment-of-all-time.html",
+            "filepath": ""
           }
         },
         {
-          "id": 90,
+          "id": 91,
           "rect": {
             "X": 1792,
             "Y": 1664,
@@ -1446,11 +1499,12 @@
           },
           "contents": "Note",
           "properties": {
-            "description": "The Ship -  Future's Dawn\nBuilt for the colonists. Profit made on building and outfitting the ship - negative reputation as a result of cost cutting wouldn't happen for hundreds of years. Therefore, company cut corners."
+            "description": "The Ship -  Future's Dawn\nBuilt for the colonists. Profit made on building and outfitting the ship - negative reputation as a result of cost cutting wouldn't happen for hundreds of years. Therefore, company cut corners.",
+            "filepath": ""
           }
         },
         {
-          "id": 91,
+          "id": 92,
           "rect": {
             "X": -32,
             "Y": 1696,
@@ -1459,18 +1513,19 @@
           },
           "contents": "Note",
           "properties": {
-            "description": "Characters"
+            "description": "Characters",
+            "filepath": ""
           },
           "links": [
             {
-              "start": 91,
+              "start": 92,
               "end": 89,
               "joints": []
             }
           ]
         },
         {
-          "id": 92,
+          "id": 93,
           "rect": {
             "X": 0,
             "Y": 1728,
@@ -1479,11 +1534,12 @@
           },
           "contents": "Note",
           "properties": {
-            "description": "Porter\nMC is named Porter. Named this because he helps disembark and assist in the development of infrastructure on the planet. AI because a VI was not capable of reacting to unknown conditions. Has a little iPad maybe."
+            "description": "Porter\nMC is named Porter. Named this because he helps disembark and assist in the development of infrastructure on the planet. AI because a VI was not capable of reacting to unknown conditions. Has a little iPad maybe.",
+            "filepath": ""
           }
         },
         {
-          "id": 93,
+          "id": 94,
           "rect": {
             "X": 640,
             "Y": 1856,
@@ -1492,18 +1548,19 @@
           },
           "contents": "Note",
           "properties": {
-            "description": "Character Art Needed"
+            "description": "Character Art Needed",
+            "filepath": ""
           },
           "links": [
             {
-              "start": 93,
-              "end": 99,
+              "start": 94,
+              "end": 100,
               "joints": []
             }
           ]
         },
         {
-          "id": 94,
+          "id": 95,
           "rect": {
             "X": 672,
             "Y": 1888,
@@ -1518,7 +1575,7 @@
           }
         },
         {
-          "id": 95,
+          "id": 96,
           "rect": {
             "X": 1792,
             "Y": 1888,
@@ -1527,11 +1584,12 @@
           },
           "contents": "Note",
           "properties": {
-            "description": "The Company - Milankovitch\nProfit made on building and outfitting the ship - negative reputation as a result of cost cutting wouldn't happen for hundreds of years. Therefore, company cut corners. Not malicious, just passive lack of caring. No reason to care.\nMarketed signing up to a colony ship like it's a vacation resort. AI/VI laborers."
+            "description": "The Company - Milankovitch\nProfit made on building and outfitting the ship - negative reputation as a result of cost cutting wouldn't happen for hundreds of years. Therefore, company cut corners. Not malicious, just passive lack of caring. No reason to care.\nMarketed signing up to a colony ship like it's a vacation resort. AI/VI laborers.",
+            "filepath": ""
           }
         },
         {
-          "id": 96,
+          "id": 97,
           "rect": {
             "X": 704,
             "Y": 1920,
@@ -1546,7 +1604,7 @@
           }
         },
         {
-          "id": 97,
+          "id": 98,
           "rect": {
             "X": 0,
             "Y": 1952,
@@ -1555,11 +1613,12 @@
           },
           "contents": "Note",
           "properties": {
-            "description": "Caretaker\nCaretaker was responsible for making sure everything went right in the journey to the new colony world.\nHe failed, and decided to kill himself."
+            "description": "Caretaker\nCaretaker was responsible for making sure everything went right in the journey to the new colony world.\nHe failed, and decided to kill himself.",
+            "filepath": ""
           }
         },
         {
-          "id": 98,
+          "id": 99,
           "rect": {
             "X": 704,
             "Y": 1952,
@@ -1574,7 +1633,7 @@
           }
         },
         {
-          "id": 99,
+          "id": 100,
           "rect": {
             "X": 1120,
             "Y": 1952,
@@ -1583,11 +1642,12 @@
           },
           "contents": "Note",
           "properties": {
-            "description": "Note on expressions\nMore than facial expressions needs tobe different between each emotion for the AI characters. Arms /posture are a big signal - hanging limp vs holding something."
+            "description": "Note on expressions\nMore than facial expressions needs tobe different between each emotion for the AI characters. Arms /posture are a big signal - hanging limp vs holding something.",
+            "filepath": ""
           }
         },
         {
-          "id": 100,
+          "id": 101,
           "rect": {
             "X": 704,
             "Y": 1984,
@@ -1602,7 +1662,7 @@
           }
         },
         {
-          "id": 101,
+          "id": 102,
           "rect": {
             "X": 704,
             "Y": 2016,
@@ -1617,7 +1677,7 @@
           }
         },
         {
-          "id": 102,
+          "id": 103,
           "rect": {
             "X": 704,
             "Y": 2048,
@@ -1632,7 +1692,7 @@
           }
         },
         {
-          "id": 103,
+          "id": 104,
           "rect": {
             "X": 672,
             "Y": 2080,
@@ -1647,7 +1707,7 @@
           }
         },
         {
-          "id": 104,
+          "id": 105,
           "rect": {
             "X": 0,
             "Y": 2112,
@@ -1656,11 +1716,12 @@
           },
           "contents": "Note",
           "properties": {
-            "description": "VI:VERNE\nVI in charge of making sure the ship goes where it's supposed to.\n\nFrustrated: The engine malfunctioned, and now they're lost."
+            "description": "VI:VERNE\nVI in charge of making sure the ship goes where it's supposed to.\n\nFrustrated: The engine malfunctioned, and now they're lost.",
+            "filepath": ""
           }
         },
         {
-          "id": 105,
+          "id": 106,
           "rect": {
             "X": 704,
             "Y": 2112,
@@ -1675,7 +1736,7 @@
           }
         },
         {
-          "id": 106,
+          "id": 107,
           "rect": {
             "X": 704,
             "Y": 2144,
@@ -1690,7 +1751,7 @@
           }
         },
         {
-          "id": 107,
+          "id": 108,
           "rect": {
             "X": 704,
             "Y": 2176,
@@ -1705,7 +1766,7 @@
           }
         },
         {
-          "id": 108,
+          "id": 109,
           "rect": {
             "X": 704,
             "Y": 2208,
@@ -1720,7 +1781,7 @@
           }
         },
         {
-          "id": 109,
+          "id": 110,
           "rect": {
             "X": 704,
             "Y": 2240,
@@ -1735,7 +1796,7 @@
           }
         },
         {
-          "id": 110,
+          "id": 111,
           "rect": {
             "X": 672,
             "Y": 2272,
@@ -1750,7 +1811,7 @@
           }
         },
         {
-          "id": 111,
+          "id": 112,
           "rect": {
             "X": 1792,
             "Y": 2272,
@@ -1759,11 +1820,12 @@
           },
           "contents": "Note",
           "properties": {
-            "description": "The Community\nGroup of people who were wealthy enough to be able to leave the planet, find a new one. Resources running dry on Earth."
+            "description": "The Community\nGroup of people who were wealthy enough to be able to leave the planet, find a new one. Resources running dry on Earth.",
+            "filepath": ""
           }
         },
         {
-          "id": 112,
+          "id": 113,
           "rect": {
             "X": 0,
             "Y": 2304,
@@ -1772,11 +1834,12 @@
           },
           "contents": "Note",
           "properties": {
-            "description": "VI:HESTIA\nVI in charge of making sure the colonists are okay. The colonists died and there was nothing they could do about it.\nAngry: shoddy construction of cryosleep killed the colonists."
+            "description": "VI:HESTIA\nVI in charge of making sure the colonists are okay. The colonists died and there was nothing they could do about it.\nAngry: shoddy construction of cryosleep killed the colonists.",
+            "filepath": ""
           }
         },
         {
-          "id": 113,
+          "id": 114,
           "rect": {
             "X": 672,
             "Y": 2304,
@@ -1791,7 +1854,7 @@
           }
         },
         {
-          "id": 114,
+          "id": 115,
           "rect": {
             "X": 672,
             "Y": 2336,
@@ -1806,7 +1869,7 @@
           }
         },
         {
-          "id": 115,
+          "id": 116,
           "rect": {
             "X": 0,
             "Y": 2528,
@@ -1815,7 +1878,8 @@
           },
           "contents": "Note",
           "properties": {
-            "description": "VI:DAEDALUS\nVI in charge of the engine.\n\nResigned: The engine malfunctioned, now they're lost, what's the point anymore."
+            "description": "VI:DAEDALUS\nVI in charge of the engine.\n\nResigned: The engine malfunctioned, now they're lost, what's the point anymore.",
+            "filepath": ""
           }
         }
       ]
@@ -1824,42 +1888,98 @@
       "name": "Narrative Flow",
       "id": 1,
       "pan": {
-        "X": 3149.0034,
-        "Y": -83.519806
+        "X": 1497.0612,
+        "Y": -717.11847
       },
       "zoom": 0.5,
       "cards": [
         {
-          "id": 116,
+          "id": 138,
           "rect": {
-            "X": 1408,
+            "X": 5664,
+            "Y": -416,
+            "W": 320,
+            "H": 192
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "endings",
+            "filepath": ""
+          }
+        },
+        {
+          "id": 118,
+          "rect": {
+            "X": 2272,
+            "Y": -352,
+            "W": 352,
+            "H": 192
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "Bridge\nVERNE confirms this is the right planet. upset that he doesn't know where Caretaker is. says HESTIA doesn't know either",
+            "filepath": ""
+          },
+          "links": [
+            {
+              "start": 118,
+              "end": 125,
+              "joints": []
+            },
+            {
+              "start": 118,
+              "end": 128,
+              "joints": []
+            }
+          ]
+        },
+        {
+          "id": 130,
+          "rect": {
+            "X": 3872,
+            "Y": -352,
+            "W": 320,
+            "H": 192
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "wake up caretaker",
+            "filepath": ""
+          },
+          "links": [
+            {
+              "start": 130,
+              "end": 132,
+              "joints": []
+            }
+          ]
+        },
+        {
+          "id": 133,
+          "rect": {
+            "X": 4800,
+            "Y": -320,
+            "W": 352,
+            "H": 192
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "VERNE & DAEDALUS",
+            "filepath": ""
+          }
+        },
+        {
+          "id": 117,
+          "rect": {
+            "X": 1760,
             "Y": -288,
             "W": 352,
             "H": 128
           },
           "contents": "Note",
           "properties": {
-            "description": "B: confirm env problem\ngo to bridge to talk to VERNE"
-          },
-          "links": [
-            {
-              "start": 116,
-              "end": 117,
-              "joints": []
-            }
-          ]
-        },
-        {
-          "id": 117,
-          "rect": {
-            "X": 1888,
-            "Y": -288,
-            "W": 352,
-            "H": 192
-          },
-          "contents": "Note",
-          "properties": {
-            "description": "Bridge\nVERNE confirms this is the right planet. upset that he doesn't know where Caretaker is. says HESTIA doesn't know either"
+            "description": "B: confirm env problem\ngo to bridge to talk to VERNE",
+            "filepath": ""
           },
           "links": [
             {
@@ -1870,45 +1990,140 @@
           ]
         },
         {
-          "id": 118,
+          "id": 128,
           "rect": {
-            "X": 2368,
-            "Y": -288,
-            "W": 352,
-            "H": 128
-          },
-          "contents": "Note",
-          "properties": {
-            "description": "B: wake up crew for consult"
-          }
-        },
-        {
-          "id": 119,
-          "rect": {
-            "X": 928,
+            "X": 2720,
             "Y": -160,
-            "W": 352,
-            "H": 192
+            "W": 480,
+            "H": 224
           },
           "contents": "Note",
           "properties": {
-            "description": "Assess Environment\nfind out that the environment is fucked.\nthe predictions of the env were wrong."
+            "description": "talk to daedalus\nmaybe we aren't where we are supposed to be? talk to DAEDALUS",
+            "filepath": ""
           },
           "links": [
             {
-              "start": 119,
-              "end": 116,
-              "joints": []
-            },
-            {
-              "start": 119,
-              "end": 124,
+              "start": 128,
+              "end": 129,
               "joints": []
             }
           ]
         },
         {
-          "id": 120,
+          "id": 129,
+          "rect": {
+            "X": 3328,
+            "Y": -160,
+            "W": 416,
+            "H": 224
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "find caretaker",
+            "filepath": ""
+          },
+          "links": [
+            {
+              "start": 129,
+              "end": 131,
+              "joints": []
+            },
+            {
+              "start": 129,
+              "end": 130,
+              "joints": []
+            }
+          ]
+        },
+        {
+          "id": 132,
+          "rect": {
+            "X": 4320,
+            "Y": -160,
+            "W": 320,
+            "H": 192
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "what do we do now?",
+            "filepath": ""
+          },
+          "links": [
+            {
+              "start": 132,
+              "end": 133,
+              "joints": []
+            },
+            {
+              "start": 132,
+              "end": 134,
+              "joints": []
+            },
+            {
+              "start": 132,
+              "end": 136,
+              "joints": []
+            },
+            {
+              "start": 132,
+              "end": 137,
+              "joints": []
+            }
+          ]
+        },
+        {
+          "id": 137,
+          "rect": {
+            "X": 5216,
+            "Y": -160,
+            "W": 320,
+            "H": 192
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "deciding what to do\nendings are some combo of stay/return/search, and AI caretaker shutdown/not",
+            "filepath": ""
+          },
+          "links": [
+            {
+              "start": 137,
+              "end": 138,
+              "joints": []
+            },
+            {
+              "start": 137,
+              "end": 139,
+              "joints": []
+            },
+            {
+              "start": 137,
+              "end": 140,
+              "joints": []
+            },
+            {
+              "start": 137,
+              "end": 143,
+              "joints": []
+            }
+          ]
+        },
+        {
+          "id": 139,
+          "rect": {
+            "X": 5664,
+            "Y": -160,
+            "W": 320,
+            "H": 192
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "endings",
+            "filepath": ""
+          }
+        },
+        {
+          "id": 121,
           "rect": {
             "X": 0,
             "Y": -128,
@@ -1917,18 +2132,19 @@
           },
           "contents": "Note",
           "properties": {
-            "description": "Backstory\nIntro slideshow that talks through what happened."
+            "description": "Backstory\nIntro slideshow that talks through what happened on Earth.",
+            "filepath": ""
           },
           "links": [
             {
-              "start": 120,
-              "end": 121,
+              "start": 121,
+              "end": 122,
               "joints": []
             }
           ]
         },
         {
-          "id": 121,
+          "id": 122,
           "rect": {
             "X": 448,
             "Y": -128,
@@ -1937,73 +2153,270 @@
           },
           "contents": "Note",
           "properties": {
-            "description": "Wake Up\nActivate as one of the earliest AIs to awaken"
+            "description": "Wake Up\nActivate as one of the earliest AIs to awaken",
+            "filepath": ""
           },
           "links": [
             {
-              "start": 121,
-              "end": 119,
+              "start": 122,
+              "end": 127,
               "joints": []
             }
           ]
         },
         {
-          "id": 122,
+          "id": 127,
           "rect": {
-            "X": 2560,
-            "Y": -96,
+            "X": 896,
+            "Y": -128,
             "W": 352,
             "H": 128
           },
           "contents": "Note",
           "properties": {
-            "description": "C"
-          }
+            "description": "something's wrong\nhuman is supposed to wake you up. computer does",
+            "filepath": ""
+          },
+          "links": [
+            {
+              "start": 127,
+              "end": 123,
+              "joints": []
+            }
+          ]
         },
         {
           "id": 123,
           "rect": {
-            "X": 448,
-            "Y": 0,
-            "W": 352,
-            "H": 192
-          },
-          "contents": "Note",
-          "properties": {
-            "description": "what would reaching the destination should be like\n-assess the environment.\n-wake up volunteer crew\n-follow their instructions"
-          }
-        },
-        {
-          "id": 124,
-          "rect": {
-            "X": 1408,
-            "Y": 32,
+            "X": 1344,
+            "Y": -128,
             "W": 352,
             "H": 128
           },
           "contents": "Note",
           "properties": {
-            "description": "B: wake up crew\ngo talk to HESTIA"
+            "description": "explore storage bay\nexplore storage bay, talk to computer.",
+            "filepath": ""
           },
           "links": [
             {
-              "start": 124,
+              "start": 123,
+              "end": 117,
+              "joints": []
+            },
+            {
+              "start": 123,
               "end": 125,
               "joints": []
             }
           ]
         },
         {
+          "id": 136,
+          "rect": {
+            "X": 4800,
+            "Y": -32,
+            "W": 352,
+            "H": 192
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "HESTIA (solo)\nonly if they didn't wake caretaker",
+            "filepath": ""
+          }
+        },
+        {
           "id": 125,
           "rect": {
-            "X": 1888,
+            "X": 1760,
+            "Y": 32,
+            "W": 352,
+            "H": 128
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "B: wake up crew\ngo talk to HESTIA",
+            "filepath": ""
+          },
+          "links": [
+            {
+              "start": 125,
+              "end": 126,
+              "joints": []
+            }
+          ]
+        },
+        {
+          "id": 126,
+          "rect": {
+            "X": 2272,
             "Y": 32,
             "W": 352,
             "H": 160
           },
           "contents": "Note",
           "properties": {
-            "description": "Cryosleep\nHESTIA doesn't know where Caretaker is\nEveryone is dead.\nWhat happened"
+            "description": "Cryosleep\nHESTIA doesn't know where Caretaker is\nEveryone is dead.\nWhat happened",
+            "filepath": ""
+          },
+          "links": [
+            {
+              "start": 126,
+              "end": 117,
+              "joints": []
+            },
+            {
+              "start": 126,
+              "end": 128,
+              "joints": []
+            }
+          ]
+        },
+        {
+          "id": 131,
+          "rect": {
+            "X": 3872,
+            "Y": 32,
+            "W": 320,
+            "H": 192
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "let caretaker sleep",
+            "filepath": ""
+          },
+          "links": [
+            {
+              "start": 131,
+              "end": 132,
+              "joints": []
+            }
+          ]
+        },
+        {
+          "id": 140,
+          "rect": {
+            "X": 5664,
+            "Y": 96,
+            "W": 320,
+            "H": 192
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "endings",
+            "filepath": ""
+          }
+        },
+        {
+          "id": 124,
+          "rect": {
+            "X": 544,
+            "Y": 224,
+            "W": 352,
+            "H": 192
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "what would reaching the destination should be like\n-assess the environment.\n-wake up volunteer crew\n-follow their instructions",
+            "filepath": ""
+          }
+        },
+        {
+          "id": 120,
+          "rect": {
+            "X": 896,
+            "Y": 224,
+            "W": 352,
+            "H": 192
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "Assess Environment\nfind out that the environment is fucked.\nthe predictions of the env were wrong.",
+            "filepath": ""
+          }
+        },
+        {
+          "id": 134,
+          "rect": {
+            "X": 4800,
+            "Y": 224,
+            "W": 352,
+            "H": 192
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "HESTIA \u0026 CARETAKER\nonly if they woke caretaker.\nhestia \u0026 caretaker are friendly",
+            "filepath": ""
+          }
+        },
+        {
+          "id": 143,
+          "rect": {
+            "X": 5344,
+            "Y": 384,
+            "W": 512,
+            "H": 192
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "Drifting Ship\nMaybe you could decide to keep the ship adrift or move forwards to the possibility of a new planet even if it wasn't the one you originally wanted to go to.",
+            "filepath": ""
+          },
+          "links": [
+            {
+              "start": 143,
+              "end": 144,
+              "joints": []
+            }
+          ]
+        },
+        {
+          "id": 144,
+          "rect": {
+            "X": 5952,
+            "Y": 512,
+            "W": 448,
+            "H": 192
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "Shutdown or Move Forwards\nCombo - shutdown in the ship adrift, or find a new planet, or bring the ship back to earth to try to report on the shoddy construction",
+            "filepath": ""
+          }
+        },
+        {
+          "id": 145,
+          "rect": {
+            "X": 5344,
+            "Y": 576,
+            "W": 512,
+            "H": 96
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "Sleep/Stay Awake\nDecide to shutdown and wait for rescule or stay awake.",
+            "filepath": ""
+          },
+          "links": [
+            {
+              "start": 145,
+              "end": 144,
+              "joints": []
+            }
+          ]
+        },
+        {
+          "id": 142,
+          "rect": {
+            "X": 5344,
+            "Y": 672,
+            "W": 512,
+            "H": 224
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "Let the AI Caretaker shut themselves down again\nAfter you wake up the AI Caretaker, maybe they find out that they had shut themselves off. Do you let them shut themselves off again, or do you try to argue them out of it.",
+            "filepath": ""
           }
         }
       ]
