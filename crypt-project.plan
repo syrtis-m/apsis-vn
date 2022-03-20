@@ -1,0 +1,2013 @@
+{
+  "version": "0.8.0-alpha.4.1",
+  "pan": {
+    "X": 766.48236,
+    "Y": 1792.6461
+  },
+  "zoom": 0.560305655002594,
+  "pages": [
+    {
+      "name": "New Page",
+      "id": 0,
+      "pan": {
+        "X": 766.4825,
+        "Y": 1792.6464
+      },
+      "zoom": 0.560305655002594,
+      "cards": [
+        {
+          "id": 0,
+          "rect": {
+            "X": 928,
+            "Y": -1856,
+            "W": 704,
+            "H": 160
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "BGs\nI like the messiness of pixelated \u0026 smoothed bgs.\nInside the ship should feel messy, outside should also be pixelated but be beautiful. Inside cramped, outside terrifyingly huge."
+          }
+        },
+        {
+          "id": 1,
+          "rect": {
+            "X": 928,
+            "Y": -1600,
+            "W": 480,
+            "H": 608
+          },
+          "contents": "Image",
+          "properties": {
+            "filepath": "C:\\Users\\jonah\\OneDrive\\Documents\\VN PROJECT\\crypt-project-assets\\finished bgs\\space 1.png"
+          }
+        },
+        {
+          "id": 2,
+          "rect": {
+            "X": 1440,
+            "Y": -1600,
+            "W": 480,
+            "H": 640
+          },
+          "contents": "Image",
+          "properties": {
+            "filepath": "C:\\Users\\jonah\\OneDrive\\Documents\\VN PROJECT\\crypt-project-assets\\finished bgs\\hallway 1.png"
+          }
+        },
+        {
+          "id": 3,
+          "rect": {
+            "X": 1952,
+            "Y": -1600,
+            "W": 480,
+            "H": 352
+          },
+          "contents": "Image",
+          "properties": {
+            "filepath": "C:\\Users\\jonah\\OneDrive\\Documents\\VN PROJECT\\crypt-project-assets\\finished bgs\\tube 1.png"
+          }
+        },
+        {
+          "id": 4,
+          "rect": {
+            "X": 2464,
+            "Y": -1600,
+            "W": 480,
+            "H": 352
+          },
+          "contents": "Image",
+          "properties": {
+            "filepath": "C:\\Users\\jonah\\OneDrive\\Documents\\VN PROJECT\\crypt-project-assets\\finished bgs\\tube 2.png"
+          }
+        },
+        {
+          "id": 5,
+          "rect": {
+            "X": -32,
+            "Y": -1216,
+            "W": 544,
+            "H": 32
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "Art Ideas"
+          }
+        },
+        {
+          "id": 6,
+          "rect": {
+            "X": 1952,
+            "Y": -1216,
+            "W": 480,
+            "H": 288
+          },
+          "contents": "Image",
+          "properties": {
+            "filepath": "C:\\Users\\jonah\\OneDrive\\Documents\\VN PROJECT\\crypt-project-assets\\finished bgs\\bg1.png"
+          }
+        },
+        {
+          "id": 7,
+          "rect": {
+            "X": 0,
+            "Y": -1184,
+            "W": 512,
+            "H": 128
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "State of the Ship\nWhat does a ship with 200yrs of travel look like? What does a tomb feel like?"
+          }
+        },
+        {
+          "id": 8,
+          "rect": {
+            "X": -704,
+            "Y": -1056,
+            "W": 512,
+            "H": 448
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "itch.io assets\nhttps://tofurocks.itch.io/renpy-gui-template\n\nthe ludum dare stuff from athenaeum\n\nhttps://kronbits.itch.io/backgrounds\nhttps://deep-fold.itch.io/space-background-generator\nhttps://ronenness.itch.io/pixelator\n\nhttps://ludowoods.itch.io/twine-to-renpy-tool\n\nhttps://gogodinosaur.itch.io/webbed\n\nhttps://kenney.itch.io/assetforge-deluxe"
+          }
+        },
+        {
+          "id": 9,
+          "rect": {
+            "X": 0,
+            "Y": -1056,
+            "W": 512,
+            "H": 160
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "BG Ideas\nBGs should communicate themes.\n\nShowing the ship as an abandoned space, a crypt."
+          },
+          "links": [
+            {
+              "start": 9,
+              "end": 0,
+              "joints": []
+            },
+            {
+              "start": 9,
+              "end": 8,
+              "joints": []
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "rect": {
+            "X": 2464,
+            "Y": -1024,
+            "W": 416,
+            "H": 128
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "Computer turn on\nLittle animation of a blue square flickering and turning on maybe?"
+          }
+        },
+        {
+          "id": 11,
+          "rect": {
+            "X": 800,
+            "Y": -960,
+            "W": 416,
+            "H": 96
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "Might need to redo these, bc i had the \"resize image to pixels\" option selected"
+          }
+        },
+        {
+          "id": 12,
+          "rect": {
+            "X": 0,
+            "Y": -896,
+            "W": 512,
+            "H": 192
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "pixelator\nuse pixelator to generate pixel art bgs\n\nthis + CC0 pictures of space or land or w/e is an excellent pairing"
+          },
+          "links": [
+            {
+              "start": 12,
+              "end": 1,
+              "joints": []
+            },
+            {
+              "start": 12,
+              "end": 11,
+              "joints": []
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "rect": {
+            "X": 1472,
+            "Y": -896,
+            "W": 288,
+            "H": 64
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "prompt: spaceship hallway"
+          }
+        },
+        {
+          "id": 14,
+          "rect": {
+            "X": 1472,
+            "Y": -832,
+            "W": 320,
+            "H": 192
+          },
+          "contents": "Image",
+          "properties": {
+            "filepath": "C:\\Users\\jonah\\OneDrive\\Documents\\VN PROJECT\\crypt-project-assets\\source bg images\\test.png"
+          },
+          "links": [
+            {
+              "start": 14,
+              "end": 15,
+              "joints": []
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "rect": {
+            "X": 1856,
+            "Y": -832,
+            "W": 320,
+            "H": 192
+          },
+          "contents": "Image",
+          "properties": {
+            "filepath": "C:\\Users\\jonah\\OneDrive\\Documents\\VN PROJECT\\crypt-project-assets\\finished bgs\\test1_pixelated.png"
+          }
+        },
+        {
+          "id": 16,
+          "rect": {
+            "X": 2240,
+            "Y": -832,
+            "W": 320,
+            "H": 192
+          },
+          "contents": "Image",
+          "properties": {
+            "filepath": "C:\\Users\\jonah\\OneDrive\\Documents\\VN PROJECT\\crypt-project-assets\\finished bgs\\engine room.png"
+          },
+          "links": [
+            {
+              "start": 16,
+              "end": 10,
+              "joints": []
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "rect": {
+            "X": 2624,
+            "Y": -832,
+            "W": 320,
+            "H": 192
+          },
+          "contents": "Image",
+          "properties": {
+            "filepath": "C:\\Users\\jonah\\OneDrive\\Documents\\VN PROJECT\\crypt-project-assets\\finished bgs\\space hallway iter 30 1.png"
+          }
+        },
+        {
+          "id": 18,
+          "rect": {
+            "X": 800,
+            "Y": -768,
+            "W": 480,
+            "H": 160
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "Text2Art colab notebook\nhttps://colab.research.google.com/github/mfrashad/text2art/blob/main/text2art.ipynb\nuse this to create art which we then put through pixelator\nreset until you get a good GPU"
+          },
+          "links": [
+            {
+              "start": 18,
+              "end": 14,
+              "joints": []
+            },
+            {
+              "start": 18,
+              "end": 21,
+              "joints": []
+            }
+          ]
+        },
+        {
+          "id": 19,
+          "rect": {
+            "X": 0,
+            "Y": -704,
+            "W": 512,
+            "H": 128
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "BG samples\nthe @CrookedCosmos twitter acct has lots of glitch art of space, all under a CC0 license. start saving examples."
+          }
+        },
+        {
+          "id": 20,
+          "rect": {
+            "X": 0,
+            "Y": -576,
+            "W": 512,
+            "H": 128
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "external ship view?\ndo we show the ship from the exterior? maybe an internal map?"
+          }
+        },
+        {
+          "id": 21,
+          "rect": {
+            "X": 1056,
+            "Y": -544,
+            "W": 448,
+            "H": 416
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "prompt ideas\nflooded coordior\nflooded hallway\nscifi flooded hallway\nscifi exercise room\nscifi lounge room\ncryosleep pods\ndesert (for sequence abt why they left the planet)\nearth orbit\nexoplanet\nalien world\nalien planet"
+          }
+        },
+        {
+          "id": 22,
+          "rect": {
+            "X": 0,
+            "Y": -448,
+            "W": 512,
+            "H": 128
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "Neural Net + pixelator\nusing GAN artwork + pixelator might be able to create interesting stuff."
+          },
+          "links": [
+            {
+              "start": 22,
+              "end": 18,
+              "joints": []
+            }
+          ]
+        },
+        {
+          "id": 23,
+          "rect": {
+            "X": -800,
+            "Y": -416,
+            "W": 288,
+            "H": 320
+          },
+          "contents": "Sub-Page",
+          "properties": {
+            "description": "Narrative Flow",
+            "subpage": 1
+          }
+        },
+        {
+          "id": 24,
+          "rect": {
+            "X": 0,
+            "Y": -320,
+            "W": 512,
+            "H": 128
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "Character Art\nDavid is making character art for AIs and VIs."
+          }
+        },
+        {
+          "id": 25,
+          "rect": {
+            "X": 0,
+            "Y": -160,
+            "W": 608,
+            "H": 96
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "Game Name\nApsis\nhttps://en.wikipedia.org/wiki/Apsis"
+          }
+        },
+        {
+          "id": 26,
+          "rect": {
+            "X": 2208,
+            "Y": -64,
+            "W": 512,
+            "H": 192
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "Drifting Ship\nMaybe you could decide to keep the ship adrift or move forwards to the possibility of a new planet even if it wasn't the one you originally wanted to go to."
+          },
+          "links": [
+            {
+              "start": 26,
+              "end": 37,
+              "joints": []
+            }
+          ]
+        },
+        {
+          "id": 27,
+          "rect": {
+            "X": -1056,
+            "Y": 0,
+            "W": 416,
+            "H": 64
+          },
+          "contents": "Number",
+          "properties": {
+            "description": "Preproduction Phase",
+            "current": 9,
+            "maximum": 9
+          }
+        },
+        {
+          "id": 28,
+          "rect": {
+            "X": -544,
+            "Y": 0,
+            "W": 384,
+            "H": 32
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "Process"
+          }
+        },
+        {
+          "id": 29,
+          "rect": {
+            "X": 0,
+            "Y": 0,
+            "W": 608,
+            "H": 320
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "Concept\nYou are an android aboard a spaceship destined for a colony world.\n\nThe colonists died in cryosleep. The ship is adrift.\nWhat do you do now?\n\nFor NaNoRenO 2022 [https://itch.io/jam/nanoreno-2022]"
+          },
+          "links": [
+            {
+              "start": 29,
+              "end": 25,
+              "joints": []
+            }
+          ]
+        },
+        {
+          "id": 30,
+          "rect": {
+            "X": 672,
+            "Y": 0,
+            "W": 544,
+            "H": 32
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "Narrative Ideas"
+          }
+        },
+        {
+          "id": 31,
+          "rect": {
+            "X": 1280,
+            "Y": 0,
+            "W": 544,
+            "H": 32
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "Player Choice Ideas"
+          }
+        },
+        {
+          "id": 32,
+          "rect": {
+            "X": -544,
+            "Y": 32,
+            "W": 288,
+            "H": 32
+          },
+          "contents": "Checkbox",
+          "properties": {
+            "checked": false,
+            "description": "Preproduction",
+            "filepath": ""
+          }
+        },
+        {
+          "id": 33,
+          "rect": {
+            "X": 704,
+            "Y": 32,
+            "W": 512,
+            "H": 256
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "Jump idea\nmaybe the navcomputer storing the destination is lost, so the ship is now adrift, and you can choose to \"jump\" to different locations in space. this would be heavy on space-related BGs, and allow me to do less ship-interior BGs"
+          }
+        },
+        {
+          "id": 34,
+          "rect": {
+            "X": 1312,
+            "Y": 32,
+            "W": 512,
+            "H": 128
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "ending\nending needs to support the themes of finding motivation/purpose, overcoming loneliness"
+          },
+          "links": [
+            {
+              "start": 34,
+              "end": 26,
+              "joints": []
+            },
+            {
+              "start": 34,
+              "end": 43,
+              "joints": []
+            },
+            {
+              "start": 34,
+              "end": 52,
+              "joints": []
+            }
+          ]
+        },
+        {
+          "id": 35,
+          "rect": {
+            "X": -1056,
+            "Y": 64,
+            "W": 416,
+            "H": 96
+          },
+          "contents": "Number",
+          "properties": {
+            "description": "Production Phase\n3/1-3/18",
+            "current": 3,
+            "maximum": 18
+          }
+        },
+        {
+          "id": 36,
+          "rect": {
+            "X": -512,
+            "Y": 64,
+            "W": 288,
+            "H": 32
+          },
+          "contents": "Checkbox",
+          "properties": {
+            "checked": true,
+            "description": "Join NaNoRenO Jam",
+            "filepath": ""
+          }
+        },
+        {
+          "id": 37,
+          "rect": {
+            "X": 2816,
+            "Y": 64,
+            "W": 448,
+            "H": 192
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "Shutdown or Move Forwards\nCombo - shutdown in the ship adrift, or find a new planet, or bring the ship back to earth to try to report on the shoddy construction"
+          }
+        },
+        {
+          "id": 38,
+          "rect": {
+            "X": -512,
+            "Y": 96,
+            "W": 288,
+            "H": 64
+          },
+          "contents": "Checkbox",
+          "properties": {
+            "checked": true,
+            "description": "Narrative Concept\nCore of the game",
+            "filepath": ""
+          }
+        },
+        {
+          "id": 39,
+          "rect": {
+            "X": -1056,
+            "Y": 160,
+            "W": 416,
+            "H": 96
+          },
+          "contents": "Number",
+          "properties": {
+            "description": "Alpha Phase\n3/19-3/26",
+            "current": 0,
+            "maximum": 8
+          }
+        },
+        {
+          "id": 40,
+          "rect": {
+            "X": -512,
+            "Y": 160,
+            "W": 288,
+            "H": 32
+          },
+          "contents": "Checkbox",
+          "properties": {
+            "checked": false,
+            "description": "Write 1 page pitch",
+            "filepath": ""
+          }
+        },
+        {
+          "id": 41,
+          "rect": {
+            "X": 1312,
+            "Y": 160,
+            "W": 512,
+            "H": 192
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "keycodes\ngating parts of the game with keycodes would be interesting. if the player is a service android, they wouldn't have admin access"
+          },
+          "links": [
+            {
+              "start": 41,
+              "end": 52,
+              "joints": []
+            }
+          ]
+        },
+        {
+          "id": 42,
+          "rect": {
+            "X": -512,
+            "Y": 192,
+            "W": 288,
+            "H": 64
+          },
+          "contents": "Checkbox",
+          "properties": {
+            "checked": true,
+            "description": "Determine Game Engine",
+            "filepath": ""
+          }
+        },
+        {
+          "id": 43,
+          "rect": {
+            "X": 2208,
+            "Y": 192,
+            "W": 512,
+            "H": 96
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "Sleep/Stay Awake\nDecide to shutdown and wait for rescule or stay awake."
+          },
+          "links": [
+            {
+              "start": 43,
+              "end": 37,
+              "joints": []
+            }
+          ]
+        },
+        {
+          "id": 44,
+          "rect": {
+            "X": -1056,
+            "Y": 256,
+            "W": 416,
+            "H": 96
+          },
+          "contents": "Number",
+          "properties": {
+            "description": "Beta Phase\n3/26-3/28",
+            "current": 0,
+            "maximum": 2
+          }
+        },
+        {
+          "id": 45,
+          "rect": {
+            "X": -512,
+            "Y": 256,
+            "W": 288,
+            "H": 64
+          },
+          "contents": "Checkbox",
+          "properties": {
+            "checked": true,
+            "description": "Determine Art Style/Process",
+            "filepath": ""
+          }
+        },
+        {
+          "id": 46,
+          "rect": {
+            "X": 704,
+            "Y": 288,
+            "W": 512,
+            "H": 128
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "masterplan outline\nuse masterplan to outline the narrative beats in the game"
+          }
+        },
+        {
+          "id": 47,
+          "rect": {
+            "X": -480,
+            "Y": 320,
+            "W": 288,
+            "H": 32
+          },
+          "contents": "Checkbox",
+          "properties": {
+            "checked": true,
+            "description": "Concepting",
+            "filepath": ""
+          }
+        },
+        {
+          "id": 48,
+          "rect": {
+            "X": 0,
+            "Y": 320,
+            "W": 288,
+            "H": 128
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "Inspiration\nAlien\nAI art"
+          }
+        },
+        {
+          "id": 49,
+          "rect": {
+            "X": 320,
+            "Y": 320,
+            "W": 288,
+            "H": 128
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "Themes\nFinding motivation\nFinding purpose\nLoneliness\n"
+          }
+        },
+        {
+          "id": 50,
+          "rect": {
+            "X": -480,
+            "Y": 352,
+            "W": 288,
+            "H": 32
+          },
+          "contents": "Checkbox",
+          "properties": {
+            "checked": true,
+            "description": "BGs",
+            "filepath": ""
+          }
+        },
+        {
+          "id": 51,
+          "rect": {
+            "X": 1312,
+            "Y": 352,
+            "W": 512,
+            "H": 128
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "exploring parts of the ship\nmaybe you can choose to explore different parts in different orders."
+          }
+        },
+        {
+          "id": 52,
+          "rect": {
+            "X": 2208,
+            "Y": 352,
+            "W": 512,
+            "H": 128
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "gated endings?\nmultiple endings, gated by keycodes you get from different areas of the ship"
+          }
+        },
+        {
+          "id": 53,
+          "rect": {
+            "X": -480,
+            "Y": 384,
+            "W": 288,
+            "H": 128
+          },
+          "contents": "Checkbox",
+          "properties": {
+            "checked": true,
+            "description": "UI/UX\nIf using Renpy, check itch.io for assets",
+            "filepath": ""
+          }
+        },
+        {
+          "id": 54,
+          "rect": {
+            "X": 704,
+            "Y": 416,
+            "W": 512,
+            "H": 352
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "The Player + Call To Action\nThe player is a model of android designed to support the unloading of the ship, and will only be turned on when they arrive at the destination. They get turned on, and they aren't at the destination. They then have to figure out what happened.\n\nMaybe computer logs?"
+          }
+        },
+        {
+          "id": 55,
+          "rect": {
+            "X": 0,
+            "Y": 448,
+            "W": 288,
+            "H": 128
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "Scope\n- 15-20 mins\n- Set entirely within spaceship"
+          }
+        },
+        {
+          "id": 56,
+          "rect": {
+            "X": 320,
+            "Y": 448,
+            "W": 288,
+            "H": 128
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "Game Engine\n- RenPy\n- Masterplan (Prototype)"
+          },
+          "links": [
+            {
+              "start": 56,
+              "end": 71,
+              "joints": []
+            },
+            {
+              "start": 56,
+              "end": 72,
+              "joints": []
+            },
+            {
+              "start": 56,
+              "end": 46,
+              "joints": []
+            }
+          ]
+        },
+        {
+          "id": 57,
+          "rect": {
+            "X": 1312,
+            "Y": 480,
+            "W": 512,
+            "H": 256
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "resurrect the AI Caretaker\nit'd be interesting if you could restore the AI caretaker from an earlier backup. like, what does it mean to have killed yourself and then brought back to life. do you respect that choice, or bring them back for the hope of something \"better\"?"
+          },
+          "links": [
+            {
+              "start": 57,
+              "end": 60,
+              "joints": []
+            },
+            {
+              "start": 57,
+              "end": 74,
+              "joints": []
+            }
+          ]
+        },
+        {
+          "id": 58,
+          "rect": {
+            "X": -544,
+            "Y": 512,
+            "W": 288,
+            "H": 32
+          },
+          "contents": "Checkbox",
+          "properties": {
+            "checked": false,
+            "description": "Production",
+            "filepath": ""
+          }
+        },
+        {
+          "id": 59,
+          "rect": {
+            "X": -512,
+            "Y": 544,
+            "W": 288,
+            "H": 32
+          },
+          "contents": "Checkbox",
+          "properties": {
+            "checked": false,
+            "description": "Narrative Flow",
+            "filepath": ""
+          }
+        },
+        {
+          "id": 60,
+          "rect": {
+            "X": 2208,
+            "Y": 544,
+            "W": 512,
+            "H": 224
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "Let the AI Caretaker shut themselves down again\nAfter you wake up the AI Caretaker, maybe they find out that they had shut themselves off. Do you let them shut themselves off again, or do you try to argue them out of it."
+          }
+        },
+        {
+          "id": 61,
+          "rect": {
+            "X": -480,
+            "Y": 576,
+            "W": 288,
+            "H": 32
+          },
+          "contents": "Checkbox",
+          "properties": {
+            "checked": false,
+            "description": "Plot Beats",
+            "filepath": ""
+          }
+        },
+        {
+          "id": 62,
+          "rect": {
+            "X": -480,
+            "Y": 608,
+            "W": 288,
+            "H": 32
+          },
+          "contents": "Checkbox",
+          "properties": {
+            "checked": false,
+            "description": "Spaces in the Game",
+            "filepath": ""
+          }
+        },
+        {
+          "id": 63,
+          "rect": {
+            "X": -480,
+            "Y": 640,
+            "W": 288,
+            "H": 32
+          },
+          "contents": "Checkbox",
+          "properties": {
+            "checked": false,
+            "description": "Player Choice",
+            "filepath": ""
+          }
+        },
+        {
+          "id": 64,
+          "rect": {
+            "X": -512,
+            "Y": 672,
+            "W": 288,
+            "H": 32
+          },
+          "contents": "Checkbox",
+          "properties": {
+            "checked": false,
+            "description": "Writing dialogue",
+            "filepath": ""
+          }
+        },
+        {
+          "id": 65,
+          "rect": {
+            "X": -512,
+            "Y": 704,
+            "W": 288,
+            "H": 32
+          },
+          "contents": "Checkbox",
+          "properties": {
+            "checked": false,
+            "description": "Character Art",
+            "filepath": ""
+          }
+        },
+        {
+          "id": 66,
+          "rect": {
+            "X": -512,
+            "Y": 736,
+            "W": 288,
+            "H": 32
+          },
+          "contents": "Checkbox",
+          "properties": {
+            "checked": false,
+            "description": "BG Art",
+            "filepath": ""
+          }
+        },
+        {
+          "id": 67,
+          "rect": {
+            "X": 1312,
+            "Y": 736,
+            "W": 512,
+            "H": 224
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "Conversational options\nChoose different options when investigating a computer terminal or talking to a VI.\ndialogue inspired by 'that which faith demands' - lots of options in dialogue that let the player RP a bit"
+          }
+        },
+        {
+          "id": 68,
+          "rect": {
+            "X": -512,
+            "Y": 768,
+            "W": 288,
+            "H": 32
+          },
+          "contents": "Checkbox",
+          "properties": {
+            "checked": false,
+            "description": "UI/UX Art & Code",
+            "filepath": ""
+          }
+        },
+        {
+          "id": 69,
+          "rect": {
+            "X": 704,
+            "Y": 768,
+            "W": 512,
+            "H": 544
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "What Happened\nthe life support was shoddily constructed - no need to build something well if you never have to sell them something again\n\nsearching for why the humans died -\u003e it was an accident. sometimes things just happen.\nI like the idea of there being a caretaker android who'se dead now. You are collecting their logs.\nMaybe one day, the caretaker \"woke up\" and everyone was dead.  They countinued for a while, and then decided to turn themselves off permanently. "
+          }
+        },
+        {
+          "id": 70,
+          "rect": {
+            "X": -480,
+            "Y": 800,
+            "W": 288,
+            "H": 32
+          },
+          "contents": "Checkbox",
+          "properties": {
+            "checked": false,
+            "description": "Font",
+            "filepath": ""
+          }
+        },
+        {
+          "id": 71,
+          "rect": {
+            "X": -32,
+            "Y": 800,
+            "W": 320,
+            "H": 416
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "PICO-8?\nWhat would this game look like in PICO-8?\n-top down\n-would require me to do art, music, code in Lua\n-less writing, more other work\n-probably means smaller scope\n-can't submit for NaNoRen0"
+          },
+          "links": [
+            {
+              "start": 71,
+              "end": 85,
+              "joints": []
+            }
+          ]
+        },
+        {
+          "id": 72,
+          "rect": {
+            "X": 320,
+            "Y": 800,
+            "W": 320,
+            "H": 416
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "RenPy\nI don't super like renpy. I want a more moody vibe, and renpy feels stale often. I like the vibes of quiet low-poly horror games.\n-No need to learn anything new.\n-Can submit for NaNoRen0\n-Less time required\n-Less art required"
+          },
+          "links": [
+            {
+              "start": 72,
+              "end": 85,
+              "joints": []
+            }
+          ]
+        },
+        {
+          "id": 73,
+          "rect": {
+            "X": -544,
+            "Y": 832,
+            "W": 288,
+            "H": 32
+          },
+          "contents": "Checkbox",
+          "properties": {
+            "checked": false,
+            "description": "Alpha",
+            "filepath": ""
+          }
+        },
+        {
+          "id": 74,
+          "rect": {
+            "X": 2208,
+            "Y": 832,
+            "W": 512,
+            "H": 224
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "Antiwork Android\nThe AI Caretaker probably used to like their job, but after a hundred years? And suddenly they find out there's no light at the end of the tunnel? Understandable that they'd fucking hate it."
+          }
+        },
+        {
+          "id": 75,
+          "rect": {
+            "X": -512,
+            "Y": 864,
+            "W": 288,
+            "H": 32
+          },
+          "contents": "Checkbox",
+          "properties": {
+            "checked": false,
+            "description": "Code",
+            "filepath": ""
+          }
+        },
+        {
+          "id": 76,
+          "rect": {
+            "X": -512,
+            "Y": 896,
+            "W": 288,
+            "H": 32
+          },
+          "contents": "Checkbox",
+          "properties": {
+            "checked": false,
+            "description": "Final Draft Narrative",
+            "filepath": ""
+          }
+        },
+        {
+          "id": 77,
+          "rect": {
+            "X": -512,
+            "Y": 928,
+            "W": 288,
+            "H": 32
+          },
+          "contents": "Checkbox",
+          "properties": {
+            "checked": false,
+            "description": "App icon",
+            "filepath": ""
+          }
+        },
+        {
+          "id": 78,
+          "rect": {
+            "X": -544,
+            "Y": 960,
+            "W": 288,
+            "H": 32
+          },
+          "contents": "Checkbox",
+          "properties": {
+            "checked": false,
+            "description": "Beta",
+            "filepath": ""
+          }
+        },
+        {
+          "id": 79,
+          "rect": {
+            "X": -512,
+            "Y": 992,
+            "W": 288,
+            "H": 32
+          },
+          "contents": "Checkbox",
+          "properties": {
+            "checked": false,
+            "description": "Final UI",
+            "filepath": ""
+          }
+        },
+        {
+          "id": 80,
+          "rect": {
+            "X": -512,
+            "Y": 1024,
+            "W": 288,
+            "H": 32
+          },
+          "contents": "Checkbox",
+          "properties": {
+            "checked": false,
+            "description": "Final Art",
+            "filepath": ""
+          }
+        },
+        {
+          "id": 81,
+          "rect": {
+            "X": -512,
+            "Y": 1056,
+            "W": 288,
+            "H": 32
+          },
+          "contents": "Checkbox",
+          "properties": {
+            "checked": false,
+            "description": "Playtest all routes",
+            "filepath": ""
+          }
+        },
+        {
+          "id": 82,
+          "rect": {
+            "X": -512,
+            "Y": 1088,
+            "W": 288,
+            "H": 32
+          },
+          "contents": "Checkbox",
+          "properties": {
+            "checked": false,
+            "description": "Studio name + art",
+            "filepath": ""
+          }
+        },
+        {
+          "id": 83,
+          "rect": {
+            "X": -544,
+            "Y": 1120,
+            "W": 288,
+            "H": 32
+          },
+          "contents": "Checkbox",
+          "properties": {
+            "checked": false,
+            "description": "Release 3/28/22",
+            "filepath": ""
+          }
+        },
+        {
+          "id": 84,
+          "rect": {
+            "X": 2400,
+            "Y": 1152,
+            "W": 512,
+            "H": 320
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "Labor \u0026 AI/VIs\nIn an effort to save money, companies have replaced workers in white color labor with AI and VIs. Means lots of people are doing jobs it's cheaper to use humans for. Manual labor like picking berries. Creative stuff. Some beaucracy.\nAIs have free will so they can buy things."
+          }
+        },
+        {
+          "id": 85,
+          "rect": {
+            "X": 192,
+            "Y": 1312,
+            "W": 256,
+            "H": 224
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "Use RenPy\nFor a game during school, use RenPy. Learn PICO-8 or GoDot over the summer."
+          },
+          "links": [
+            {
+              "start": 85,
+              "end": 87,
+              "joints": []
+            }
+          ]
+        },
+        {
+          "id": 86,
+          "rect": {
+            "X": 704,
+            "Y": 1312,
+            "W": 512,
+            "H": 192
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "VIs\ni think the ship is populated by VIs. think Nier esque, not super sentient. maybe they're tied to specific rooms.\nmaybe one wakes you up because the caretaker hasn't been "
+          }
+        },
+        {
+          "id": 87,
+          "rect": {
+            "X": -352,
+            "Y": 1376,
+            "W": 384,
+            "H": 192
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "summer project resources\nhttps://github.com/JannisX11/blockbench"
+          }
+        },
+        {
+          "id": 88,
+          "rect": {
+            "X": 1760,
+            "Y": 1440,
+            "W": 544,
+            "H": 32
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "Lore"
+          },
+          "links": [
+            {
+              "start": 88,
+              "end": 69,
+              "joints": []
+            }
+          ]
+        },
+        {
+          "id": 89,
+          "rect": {
+            "X": 1792,
+            "Y": 1472,
+            "W": 512,
+            "H": 192
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "AIs vs VIs\nAIs are full characters, multiple expressions etc, nd can adapt to unexpected situations\nVIs are only an icon and can't adapt to unexpected situations."
+          },
+          "links": [
+            {
+              "start": 89,
+              "end": 86,
+              "joints": []
+            },
+            {
+              "start": 89,
+              "end": 84,
+              "joints": []
+            }
+          ]
+        },
+        {
+          "id": 127,
+          "rect": {
+            "X": 704,
+            "Y": 1504,
+            "W": 512,
+            "H": 128
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "roko's basilisk\nhttps://slate.com/technology/2014/07/rokos-basilisk-the-most-terrifying-thought-experiment-of-all-time.html"
+          }
+        },
+        {
+          "id": 90,
+          "rect": {
+            "X": 1792,
+            "Y": 1664,
+            "W": 512,
+            "H": 224
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "The Ship -  Future's Dawn\nBuilt for the colonists. Profit made on building and outfitting the ship - negative reputation as a result of cost cutting wouldn't happen for hundreds of years. Therefore, company cut corners."
+          }
+        },
+        {
+          "id": 91,
+          "rect": {
+            "X": -32,
+            "Y": 1696,
+            "W": 544,
+            "H": 32
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "Characters"
+          },
+          "links": [
+            {
+              "start": 91,
+              "end": 89,
+              "joints": []
+            }
+          ]
+        },
+        {
+          "id": 92,
+          "rect": {
+            "X": 0,
+            "Y": 1728,
+            "W": 512,
+            "H": 224
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "Porter\nMC is named Porter. Named this because he helps disembark and assist in the development of infrastructure on the planet. AI because a VI was not capable of reacting to unknown conditions. Has a little iPad maybe."
+          }
+        },
+        {
+          "id": 93,
+          "rect": {
+            "X": 640,
+            "Y": 1856,
+            "W": 352,
+            "H": 32
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "Character Art Needed"
+          },
+          "links": [
+            {
+              "start": 93,
+              "end": 99,
+              "joints": []
+            }
+          ]
+        },
+        {
+          "id": 94,
+          "rect": {
+            "X": 672,
+            "Y": 1888,
+            "W": 288,
+            "H": 32
+          },
+          "contents": "Checkbox",
+          "properties": {
+            "checked": false,
+            "description": "Porter Art",
+            "filepath": ""
+          }
+        },
+        {
+          "id": 95,
+          "rect": {
+            "X": 1792,
+            "Y": 1888,
+            "W": 512,
+            "H": 384
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "The Company - Milankovitch\nProfit made on building and outfitting the ship - negative reputation as a result of cost cutting wouldn't happen for hundreds of years. Therefore, company cut corners. Not malicious, just passive lack of caring. No reason to care.\nMarketed signing up to a colony ship like it's a vacation resort. AI/VI laborers."
+          }
+        },
+        {
+          "id": 96,
+          "rect": {
+            "X": 704,
+            "Y": 1920,
+            "W": 288,
+            "H": 32
+          },
+          "contents": "Checkbox",
+          "properties": {
+            "checked": false,
+            "description": "Positive",
+            "filepath": ""
+          }
+        },
+        {
+          "id": 97,
+          "rect": {
+            "X": 0,
+            "Y": 1952,
+            "W": 512,
+            "H": 160
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "Caretaker\nCaretaker was responsible for making sure everything went right in the journey to the new colony world.\nHe failed, and decided to kill himself."
+          }
+        },
+        {
+          "id": 98,
+          "rect": {
+            "X": 704,
+            "Y": 1952,
+            "W": 288,
+            "H": 32
+          },
+          "contents": "Checkbox",
+          "properties": {
+            "checked": false,
+            "description": "Negative",
+            "filepath": ""
+          }
+        },
+        {
+          "id": 99,
+          "rect": {
+            "X": 1120,
+            "Y": 1952,
+            "W": 384,
+            "H": 256
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "Note on expressions\nMore than facial expressions needs tobe different between each emotion for the AI characters. Arms /posture are a big signal - hanging limp vs holding something."
+          }
+        },
+        {
+          "id": 100,
+          "rect": {
+            "X": 704,
+            "Y": 1984,
+            "W": 288,
+            "H": 32
+          },
+          "contents": "Checkbox",
+          "properties": {
+            "checked": false,
+            "description": "Shocked (Negative)",
+            "filepath": ""
+          }
+        },
+        {
+          "id": 101,
+          "rect": {
+            "X": 704,
+            "Y": 2016,
+            "W": 288,
+            "H": 32
+          },
+          "contents": "Checkbox",
+          "properties": {
+            "checked": false,
+            "description": "Depressed",
+            "filepath": ""
+          }
+        },
+        {
+          "id": 102,
+          "rect": {
+            "X": 704,
+            "Y": 2048,
+            "W": 288,
+            "H": 32
+          },
+          "contents": "Checkbox",
+          "properties": {
+            "checked": false,
+            "description": "Hopeful",
+            "filepath": ""
+          }
+        },
+        {
+          "id": 103,
+          "rect": {
+            "X": 672,
+            "Y": 2080,
+            "W": 288,
+            "H": 32
+          },
+          "contents": "Checkbox",
+          "properties": {
+            "checked": false,
+            "description": "Caretaker Art",
+            "filepath": ""
+          }
+        },
+        {
+          "id": 104,
+          "rect": {
+            "X": 0,
+            "Y": 2112,
+            "W": 512,
+            "H": 192
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "VI:VERNE\nVI in charge of making sure the ship goes where it's supposed to.\n\nFrustrated: The engine malfunctioned, and now they're lost."
+          }
+        },
+        {
+          "id": 105,
+          "rect": {
+            "X": 704,
+            "Y": 2112,
+            "W": 288,
+            "H": 32
+          },
+          "contents": "Checkbox",
+          "properties": {
+            "checked": false,
+            "description": "Positive",
+            "filepath": ""
+          }
+        },
+        {
+          "id": 106,
+          "rect": {
+            "X": 704,
+            "Y": 2144,
+            "W": 288,
+            "H": 32
+          },
+          "contents": "Checkbox",
+          "properties": {
+            "checked": false,
+            "description": "Negative",
+            "filepath": ""
+          }
+        },
+        {
+          "id": 107,
+          "rect": {
+            "X": 704,
+            "Y": 2176,
+            "W": 288,
+            "H": 32
+          },
+          "contents": "Checkbox",
+          "properties": {
+            "checked": false,
+            "description": "Shocked (Negative)",
+            "filepath": ""
+          }
+        },
+        {
+          "id": 108,
+          "rect": {
+            "X": 704,
+            "Y": 2208,
+            "W": 288,
+            "H": 32
+          },
+          "contents": "Checkbox",
+          "properties": {
+            "checked": false,
+            "description": "Depressed",
+            "filepath": ""
+          }
+        },
+        {
+          "id": 109,
+          "rect": {
+            "X": 704,
+            "Y": 2240,
+            "W": 288,
+            "H": 32
+          },
+          "contents": "Checkbox",
+          "properties": {
+            "checked": false,
+            "description": "Hopeful",
+            "filepath": ""
+          }
+        },
+        {
+          "id": 110,
+          "rect": {
+            "X": 672,
+            "Y": 2272,
+            "W": 288,
+            "H": 32
+          },
+          "contents": "Checkbox",
+          "properties": {
+            "checked": false,
+            "description": "VI:VERNE Icon",
+            "filepath": ""
+          }
+        },
+        {
+          "id": 111,
+          "rect": {
+            "X": 1792,
+            "Y": 2272,
+            "W": 512,
+            "H": 160
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "The Community\nGroup of people who were wealthy enough to be able to leave the planet, find a new one. Resources running dry on Earth."
+          }
+        },
+        {
+          "id": 112,
+          "rect": {
+            "X": 0,
+            "Y": 2304,
+            "W": 512,
+            "H": 224
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "VI:HESTIA\nVI in charge of making sure the colonists are okay. The colonists died and there was nothing they could do about it.\nAngry: shoddy construction of cryosleep killed the colonists."
+          }
+        },
+        {
+          "id": 113,
+          "rect": {
+            "X": 672,
+            "Y": 2304,
+            "W": 288,
+            "H": 32
+          },
+          "contents": "Checkbox",
+          "properties": {
+            "checked": false,
+            "description": "VI:HESTIA Icon",
+            "filepath": ""
+          }
+        },
+        {
+          "id": 114,
+          "rect": {
+            "X": 672,
+            "Y": 2336,
+            "W": 288,
+            "H": 32
+          },
+          "contents": "Checkbox",
+          "properties": {
+            "checked": false,
+            "description": "VI:DAEDALUS Icon",
+            "filepath": ""
+          }
+        },
+        {
+          "id": 115,
+          "rect": {
+            "X": 0,
+            "Y": 2528,
+            "W": 512,
+            "H": 192
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "VI:DAEDALUS\nVI in charge of the engine.\n\nResigned: The engine malfunctioned, now they're lost, what's the point anymore."
+          }
+        }
+      ]
+    },
+    {
+      "name": "Narrative Flow",
+      "id": 1,
+      "pan": {
+        "X": 3149.0034,
+        "Y": -83.519806
+      },
+      "zoom": 0.5,
+      "cards": [
+        {
+          "id": 116,
+          "rect": {
+            "X": 1408,
+            "Y": -288,
+            "W": 352,
+            "H": 128
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "B: confirm env problem\ngo to bridge to talk to VERNE"
+          },
+          "links": [
+            {
+              "start": 116,
+              "end": 117,
+              "joints": []
+            }
+          ]
+        },
+        {
+          "id": 117,
+          "rect": {
+            "X": 1888,
+            "Y": -288,
+            "W": 352,
+            "H": 192
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "Bridge\nVERNE confirms this is the right planet. upset that he doesn't know where Caretaker is. says HESTIA doesn't know either"
+          },
+          "links": [
+            {
+              "start": 117,
+              "end": 118,
+              "joints": []
+            }
+          ]
+        },
+        {
+          "id": 118,
+          "rect": {
+            "X": 2368,
+            "Y": -288,
+            "W": 352,
+            "H": 128
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "B: wake up crew for consult"
+          }
+        },
+        {
+          "id": 119,
+          "rect": {
+            "X": 928,
+            "Y": -160,
+            "W": 352,
+            "H": 192
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "Assess Environment\nfind out that the environment is fucked.\nthe predictions of the env were wrong."
+          },
+          "links": [
+            {
+              "start": 119,
+              "end": 116,
+              "joints": []
+            },
+            {
+              "start": 119,
+              "end": 124,
+              "joints": []
+            }
+          ]
+        },
+        {
+          "id": 120,
+          "rect": {
+            "X": 0,
+            "Y": -128,
+            "W": 352,
+            "H": 128
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "Backstory\nIntro slideshow that talks through what happened."
+          },
+          "links": [
+            {
+              "start": 120,
+              "end": 121,
+              "joints": []
+            }
+          ]
+        },
+        {
+          "id": 121,
+          "rect": {
+            "X": 448,
+            "Y": -128,
+            "W": 352,
+            "H": 128
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "Wake Up\nActivate as one of the earliest AIs to awaken"
+          },
+          "links": [
+            {
+              "start": 121,
+              "end": 119,
+              "joints": []
+            }
+          ]
+        },
+        {
+          "id": 122,
+          "rect": {
+            "X": 2560,
+            "Y": -96,
+            "W": 352,
+            "H": 128
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "C"
+          }
+        },
+        {
+          "id": 123,
+          "rect": {
+            "X": 448,
+            "Y": 0,
+            "W": 352,
+            "H": 192
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "what would reaching the destination should be like\n-assess the environment.\n-wake up volunteer crew\n-follow their instructions"
+          }
+        },
+        {
+          "id": 124,
+          "rect": {
+            "X": 1408,
+            "Y": 32,
+            "W": 352,
+            "H": 128
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "B: wake up crew\ngo talk to HESTIA"
+          },
+          "links": [
+            {
+              "start": 124,
+              "end": 125,
+              "joints": []
+            }
+          ]
+        },
+        {
+          "id": 125,
+          "rect": {
+            "X": 1888,
+            "Y": 32,
+            "W": 352,
+            "H": 160
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "Cryosleep\nHESTIA doesn't know where Caretaker is\nEveryone is dead.\nWhat happened"
+          }
+        }
+      ]
+    }
+  ],
+  "savedimages": {}
+}
