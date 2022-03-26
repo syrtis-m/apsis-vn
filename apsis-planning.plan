@@ -1,8 +1,8 @@
 {
   "version": "0.8.0-alpha.4.1",
   "pan": {
-    "X": -263.04047,
-    "Y": 0.0000076293945
+    "X": 3156.921,
+    "Y": -125.98058
   },
   "zoom": 0.5,
   "pages": [
@@ -10,8 +10,8 @@
       "name": "New Page",
       "id": 0,
       "pan": {
-        "X": -623.08295,
-        "Y": -54.169945
+        "X": -513.5717,
+        "Y": 305.75873
       },
       "zoom": 0.5,
       "cards": [
@@ -1888,11 +1888,32 @@
       "name": "Narrative Flow",
       "id": 1,
       "pan": {
-        "X": -263.0404,
-        "Y": 0.000007629396
+        "X": 3156.9214,
+        "Y": -125.98057
       },
       "zoom": 0.5,
       "cards": [
+        {
+          "id": 180,
+          "rect": {
+            "X": 2752,
+            "Y": -736,
+            "W": 480,
+            "H": 288
+          },
+          "contents": "Note",
+          "properties": {
+            "description": "they're still in space\nThey never made it to the planet. the computer decided it's arrived, so is starting the arrival stuff.\n\nending decision: wipe memories or keep going knowing?",
+            "filepath": ""
+          },
+          "links": [
+            {
+              "start": 180,
+              "end": 122,
+              "joints": []
+            }
+          ]
+        },
         {
           "id": 117,
           "rect": {
@@ -1974,11 +1995,11 @@
             "X": 1760,
             "Y": -288,
             "W": 352,
-            "H": 128
+            "H": 160
           },
           "contents": "Note",
           "properties": {
-            "description": "B: confirm env problem\ngo to bridge to talk to VERNE",
+            "description": "B: confirm env problem\ngo to bridge to talk to VERNE\n",
             "filepath": ""
           },
           "links": [
@@ -2022,7 +2043,7 @@
         {
           "id": 122,
           "rect": {
-            "X": 2720,
+            "X": 2752,
             "Y": -160,
             "W": 480,
             "H": 224
@@ -2050,7 +2071,7 @@
           },
           "contents": "Note",
           "properties": {
-            "description": "find caretaker",
+            "description": "find caretaker\nchicken and pig agile systems metaphor -- mkv execs didn't have any skin in the game.",
             "filepath": ""
           },
           "links": [
@@ -2135,6 +2156,11 @@
               "start": 125,
               "end": 139,
               "joints": []
+            },
+            {
+              "start": 125,
+              "end": 180,
+              "joints": []
             }
           ]
         },
@@ -2191,7 +2217,7 @@
         {
           "id": 128,
           "rect": {
-            "X": 448,
+            "X": 416,
             "Y": -128,
             "W": 352,
             "H": 128
@@ -2205,6 +2231,11 @@
             {
               "start": 128,
               "end": 129,
+              "joints": []
+            },
+            {
+              "start": 128,
+              "end": 180,
               "joints": []
             }
           ]
