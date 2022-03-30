@@ -23,13 +23,19 @@ define gui.show_name = True
 
 ## The version of the game.
 
-define config.version = "1.0"
+define config.version = "prerelease"
 
 
 ## Text that is placed on the game's about screen. Place the text between the
 ## triple-quotes, and leave a blank line between paragraphs.
+#TODO determine how david wants to be credited
+#TODO credit the AI that generates backgrounds
+#TODO credit the ludum dare guy, follow his licensing
+#TODO credit all the people i got non-public domain images from
 
 define gui.about = _p("""
+Narrative: syrtis (twitter.com/syrtis_)
+Character Art: Lemon
 """)
 
 
@@ -39,6 +45,12 @@ define gui.about = _p("""
 
 define build.name = "apsis"
 
+define config.menu_include_disabled = True
+
+define config.allow_skipping = False #TODO SET TO FALSE BEFORE RELEASE
+
+define config.has_autosave = False
+
 
 ## Sounds and music ############################################################
 
@@ -46,9 +58,9 @@ define build.name = "apsis"
 ## to the player by default. Setting one of these to False will hide the
 ## appropriate mixer.
 
-define config.has_sound = True
+define config.has_sound = False
 define config.has_music = True
-define config.has_voice = True
+define config.has_voice = False
 
 
 ## To allow the user to play a test sound on the sound or voice channel,
@@ -62,6 +74,7 @@ define config.has_voice = True
 ## the player is at the main menu. This file will continue playing into the
 ## game, until it is stopped or another file is played.
 
+#TODO determine main menu music. use ludum dare stuff
 # define config.main_menu_music = "main-menu-theme.ogg"
 
 
