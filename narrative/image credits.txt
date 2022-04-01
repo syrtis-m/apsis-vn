@@ -1,2 +1,3 @@
 App Icon: Stanford Torus Generation Ship By Heineken11 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=99940475
 Main Menu: Spaceship snip - CC BY 2.0, https://www.flickr.com/photos/oddsock/5933209426/. I pixelated the image.
+Backgrounds: Generated using Text2Art - Images CC BY-NC-SA 4.0, https://github.com/mfrashad/text2art

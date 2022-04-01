@@ -34,8 +34,18 @@ define config.version = "prerelease"
 #TODO credit all the people i got non-public domain images from
 
 define gui.about = _p("""
-Narrative: syrtis (twitter.com/syrtis_)
+Made during March 2022 for NaNoRen0 2022.
+
+Narrative & Programming: syrtis (twitter.com/syrtis_)
+Character Art: Lemon (instagram.com/someratsinatrenchcoat)
+
+Images:
 Character Art: Lemon
+App Icon: Stanford Torus Generation Ship By Heineken11 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=99940475
+Main Menu: Spaceship snip - CC BY 2.0, https://www.flickr.com/photos/oddsock/5933209426/. I pixelated the image.
+Backgrounds: Generated using Text2Art - Images CC BY-NC-SA 4.0, https://github.com/mfrashad/text2art
+
+Music:
 """)
 
 
