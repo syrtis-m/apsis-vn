@@ -3,31 +3,39 @@
 # Declare characters used by this game. The color argument colorizes the
 # name of the character.
 
-define e = Character("Eileen")
+define n = Character("Narrator")
+define com = Character("COMPUTER:MAIN")
+define p = Character("AI:Porter", image="porter")
+define c = Character("AI:Caretaker", image="caretaker")
+define v = Character("VI:VERNE", image="verne")
+define h = Character("VI:HESTIA", image="hestia")
+define d = Character("VI:DAEDALUS", image="daedalus")
 
+label ship_map:
+    scene hallway with fade
 
+    menu:
+        "<GOTO CRYONICS BAY 2>" if MET_HESTIA == False:
+                call cryonics_bay
+        "<GOTO COMMAND DECK>" if MET_VERNE == False:
+                call command_deck
+        "<GOTO ENGINEERING>" if ((MET_HESTIA and MET_VERNE) and (MET_DAEDALUS and False)):
+                call engineering
+        "<GOTO BLOCK E7>" if MET_DAEDALUS:
+                jump block_e7
+    jump ship_map
 # The game starts here.
 
 label start:
 
-    # Show a background. This uses a placeholder by default, but you can
-    # add a file (named either "bg room.png" or "bg room.jpg") to the
-    # images directory to show it.
+    python:
+        MET_HESTIA = False
+        MET_VERNE = False
+        MET_DAEDALUS = False
+        CARETAKER_AWAKE = False
+        COMPUTER_INSPECTED = False
+        QHV_FLIGHT_TIME = False
 
-    scene bg room
-
-    # This shows a character sprite. A placeholder is used, but you can
-    # replace it by adding a file named "eileen happy.png" to the images
-    # directory.
-
-    show eileen happy
-
-    # These display lines of dialogue.
-
-    e "You've created a new Ren'Py game."
-
-    e "Once you add a story, pictures, and music, you can release it to the world!"
-
-    # This ends the game.
+    jump introduction
 
     return
