@@ -1,0 +1,28 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/ending.rpy", line 352, in script
+    scene black with fadein
+  File "game/ending.rpy", line 352, in <module>
+    scene black with fadein
+NameError: name 'fadein' is not defined
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/ending.rpy", line 352, in script
+    scene black with fadein
+  File "renpy/ast.py", line 1439, in execute
+    paired = renpy.python.py_eval(self.paired)
+  File "renpy/python.py", line 2276, in py_eval
+    return py_eval_bytecode(code, globals, locals)
+  File "renpy/python.py", line 2269, in py_eval_bytecode
+    return eval(bytecode, globals, locals)
+  File "game/ending.rpy", line 352, in <module>
+    scene black with fadein
+NameError: name 'fadein' is not defined
+
+Windows-10-10.0.19041
+Ren'Py 7.4.11.2266
+apsis prerelease
+Fri Apr  1 20:55:59 2022

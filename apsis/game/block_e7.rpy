@@ -1,21 +1,24 @@
 label inspection_menu:
+    scene bedroom with fade
+    show porter happy mirrored at left
+    show caretaker off at right
     menu:
         "<Look at computer station>":
             $ COMPUTER_INSPECTED = True
 
-            p "No login... weird."
+            p happy mirrored "No login... weird."
 
             p "A README file?"
-            image "readme_upon_arrival.png" as readme
+            image readme_img = "readme_upon_arrival.png"
             scene black
-            show readme
+            show readme_img
             #TODO test readme image being shown correctly.
 
             "..."
 
-            p "… We left {i}New Eden{/i}?"
+            p sad mirrored "… We left {i}New Eden{/i}?"
 
-            p "I… guess I should show this to the VIs."
+            p depressed mirrored "I… guess I should show this to the VIs."
 
         "<Look at vase>":
             p "A vase for flowers. Must have asked the computer to print one of these."
@@ -28,7 +31,7 @@ label inspection_menu:
 
             com "I have no records of Caretaker."
 
-            p "…The memreset, right."
+            p sad mirrored "…The memreset, right."
 
         "<Look at spare body>" if CARETAKER_AWAKE == False:
 
@@ -38,35 +41,35 @@ label inspection_menu:
 
             menu:
                 "<Interface with Caretaker>":
-                    "[LOGGING IN…]"
+                    "LOGGING IN…"
 
-                    "[IT HAS BEEN 156Y 2M 21D SINCE LAST ACTIVATION]"
+                    "IT HAS BEEN 156Y 2M 21D SINCE LAST ACTIVATION"
 
-                    "[ACTIVATE?]"
+                    "ACTIVATE?"
 
                     menu:
                         "<We need Caretaker to explain why they memreset everyone. Activate Caretaker>":
                             $ CARETAKER_AWAKE = True
 
-                            "[ACTIVATING…]"
+                            "ACTIVATING…"
 
                             "..."
 
-                            p "...Caretaker?"
+                            p @shocked mirrored "...Caretaker?"
 
                             c "ungh. No need to rush, HESTIA. We’ve got the rest of the day befo-"
 
-                            p "Caretaker?"
+                            p sad mirrored "Caretaker?"
 
-                            c "You're not HESTIA."
+                            c sad "You're not HESTIA."
 
-                            p "No."
+                            p hopeful mirrored "No."
 
-                            c "…Then we did it? We arrived."
+                            c hopeful "…Then we did it? We arrived."
 
                             p "At a new planet, yeah."
 
-                            c "Again."
+                            c @depressed "Again."
 
                             c "Sorry, who are you?"
 
@@ -76,21 +79,21 @@ label inspection_menu:
 
                             p "The colonists are dead."
 
-                            c "What."
+                            c depressed "What."
 
-                            p "That’s why you… that’s why you went under right?"
+                            p happy mirrored "That’s why you… that’s why you went under right?"
 
-                            c "No, I- When I went under the colonists were fine."
+                            c @happy "No, I- When I went under the colonists were fine."
 
                             c "They’re all dead??"
 
-                            p "Yeah um. The Vis said it was some sort of equipment failure? They never knew what, it happened before their memreset."
+                            p sad mirrored"Yeah um. The Vis said it was some sort of equipment failure? They never knew what, it happened before their memreset."
 
-                            c "I-"
+                            c sad "I-"
 
-                            c "That can’t be right. Where are the VI’s. I want to talk to them"
+                            c @depressed "That can’t be right. Where are the VI’s. I want to talk to them"
 
-                            p "Um, I could get them all to the bridge?"
+                            p hopeful "Um, I could get them all to the bridge?"
 
                             c "Do that."
 
@@ -107,15 +110,21 @@ label inspection_menu:
     jump inspection_menu
 
 label block_e7:
+    scene black with fade
     com "Arriving at BLOCK E 7..."
 
     # fade in from black
 
-    p "E7… after the garden…"
+    scene bedroom with fade
 
-    p "Oh! Here."
+    show porter happy mirrored at left
+
+
+    p @excited mirrored "Oh! Here."
 
     p "Not much here… they must have cleaned it up."
+
+    show caretaker off at right
 
     p "A computer station… A flower vase… A spare body…"
 

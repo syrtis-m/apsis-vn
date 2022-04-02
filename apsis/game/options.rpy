@@ -23,7 +23,7 @@ define gui.show_name = True
 
 ## The version of the game.
 
-define config.version = "prerelease"
+define config.version = "1.0"
 
 
 ## Text that is placed on the game's about screen. Place the text between the
@@ -37,15 +37,14 @@ define gui.about = _p("""
 Made during March 2022 for NaNoRen0 2022.
 
 Narrative & Programming: syrtis (twitter.com/syrtis_)
-Character Art: Lemon (instagram.com/someratsinatrenchcoat)
+\nCharacter Art: Lemon (instagram.com/someratsinatrenchcoat)
 
-Images:
-Character Art: Lemon
-App Icon: Stanford Torus Generation Ship By Heineken11 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=99940475
-Main Menu: Spaceship snip - CC BY 2.0, https://www.flickr.com/photos/oddsock/5933209426/. I pixelated the image.
-Backgrounds: Generated using Text2Art - Images CC BY-NC-SA 4.0, https://github.com/mfrashad/text2art
+\nImages:
+\nCharacter Art: Lemon
+\nApp Icon: Stanford Torus Generation Ship By Heineken11 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=99940475
+\nMain Menu: Spaceship snip - CC BY 2.0, https://www.flickr.com/photos/oddsock/5933209426/. I pixelated the image.
+\nBackgrounds: Generated using Text2Art - Images CC BY-NC-SA 4.0, https://github.com/mfrashad/text2art
 
-Music:
 """)
 
 
@@ -69,7 +68,7 @@ define config.has_autosave = False
 ## appropriate mixer.
 
 define config.has_sound = False
-define config.has_music = True
+define config.has_music = False
 define config.has_voice = False
 
 

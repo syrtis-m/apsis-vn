@@ -23,6 +23,9 @@ label introduction:
 
     com "Good morning, Porter."
 
+    scene pbedroom with fade
+    show porter happy mirrored at left
+
     com "Today is Monday, January 1st, 0000."
 
     com "We have arrived in orbit above {i}New Eden{/i}."
@@ -36,16 +39,16 @@ label introduction:
             com "Your diagnostics are all green. Please prepare to assist HESTIA with preparing to wake the colonists."
 
         "<Sleep? I'm an AI>":
-
             com "Yes, Porter. You’ve been in sleep mode since we left the Sol system."
 
             com "Your diagnostics are all green. Please prepare to assist HESTIA with preparing to wake the colonists."
 
-        "<Where am I??>"
+        "<Where am I??>":
             com "You’re onboard the {i}Future’s Dawn{/i}. We’ve reached {i}New Eden{/i}."
 
             com "Your diagnostics are all green. Please prepare to assist HESTIA with preparing to wake the colonists."
 
+    show porter sad mirrored
     menu:
         "<What are the conditions planetside?>":
             com "Average Surface Gravity is: NaN m/s."
@@ -56,7 +59,7 @@ label introduction:
 
             com "Surface Biosign Monitor reports: ERROR 325."
 
-            p "Errors?"
+            p sad mirrored "Errors?"
 
             com "I’m sorry Porter, I don’t know what that means."
 
@@ -64,7 +67,17 @@ label introduction:
 
             com "I’m sorry Porter, I don’t know what that means."
 
-            p "..."
+            p happy mirrored "..."
+        "<How are the colonists?>":
+            com "EKG sensor shows: ERROR 613"
+
+            com "Temperature sensor shows: NaN"
+
+            p happy mirrored "NaN?"
+
+            com "Naan-related information is stored in container 00324."
+
+            p @sad mirrored "That’s not…. Right, not a Virtual Intelligence, just a computer."
 
     menu:
         "<Who should I report problems to?>":

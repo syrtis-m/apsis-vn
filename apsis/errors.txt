@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/introduction.rpy", line 33: choice menuitem expects a non-empty block.
-    "<It was alright>":
-                       ^
+File "game/block_e7.rpy", line 113: u'with' is not a keyword argument or valid child for the screen statement.
+    screen black with fade
+                     ^
 
 Ren'Py Version: Ren'Py 7.4.11.2266
-Fri Apr  1 13:48:29 2022
+Fri Apr  1 20:53:10 2022

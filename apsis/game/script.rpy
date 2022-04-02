@@ -13,14 +13,14 @@ define d = Character("VI:DAEDALUS", image="daedalus")
 
 label ship_map:
     scene hallway with fade
-
+    show porter hopeful mirrored at left
     menu:
         "<GOTO CRYONICS BAY 2>" if MET_HESTIA == False:
-                call cryonics_bay
+                call cryonics_bay from _call_cryonics_bay
         "<GOTO COMMAND DECK>" if MET_VERNE == False:
-                call command_deck
-        "<GOTO ENGINEERING>" if ((MET_HESTIA and MET_VERNE) and (MET_DAEDALUS and False)):
-                call engineering
+                call command_deck from _call_command_deck
+        "<GOTO ENGINEERING>" if ((MET_HESTIA and MET_VERNE) and (MET_DAEDALUS ==False)):
+                call engineering from _call_engineering
         "<GOTO BLOCK E7>" if MET_DAEDALUS:
                 jump block_e7
     jump ship_map
