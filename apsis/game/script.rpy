@@ -7,9 +7,9 @@ define n = Character("Narrator")
 define com = Character("COMPUTER:MAIN")
 define p = Character("AI:Porter", image="porter")
 define c = Character("AI:Caretaker", image="caretaker")
-define v = Character("VI:VERNE", image="verne")
-define h = Character("VI:HESTIA", image="hestia")
-define d = Character("VI:DAEDALUS", image="daedalus")
+define v = Character("VI:VERNE", image="verne", who_color='#022113')
+define h = Character("VI:HESTIA", image="hestia", who_color='#e2282d')
+define d = Character("VI:DAEDALUS", image="daedalus", who_color='#2f698f')
 
 label ship_map:
     scene hallway with fade

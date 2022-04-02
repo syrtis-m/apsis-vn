@@ -1,3 +1,9 @@
+transform document_view:
+
+    xalign 0.5
+    yalign 0.3
+
+
 label inspection_menu:
     scene bedroom with fade
     show porter happy mirrored at left
@@ -11,7 +17,7 @@ label inspection_menu:
             p "A README file?"
             image readme_img = "readme_upon_arrival.png"
             scene black
-            show readme_img
+            show readme_img at document_view
             #TODO test readme image being shown correctly.
 
             "..."
